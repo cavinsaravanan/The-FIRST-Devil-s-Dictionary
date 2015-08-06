@@ -164,9 +164,9 @@ The FIRST Devil's Dictionary
 
 **FMS (n.):** An almost incomprehensible collection of computers, wires, and network switches designed to never connect your robot and Driver Station on the first attempt. See mDNS.~Aaron.Graeve
 
-**FRC (verb); an acronym standing for Forceful Robot Collisions. Note:** Many consider this synonymous with the 2014 game Ariel Assist.~Munchskull
+**FRC (verb):** an acronym standing for Forceful Robot Collisions. Note: Many consider this synonymous with the 2014 game Ariel Assist.~Munchskull
 
-**FRC (n.):** 1. The greatest thing since sliced bread. ~TheBoulderite
+**FRC (n.):** 1. The greatest thing since sliced bread. 2. An addiction.~TheBoulderite
 
 **Freshman (n.) Team go:**fer and filer of all sharp corners.~EricH
 
@@ -194,6 +194,10 @@ The FIRST Devil's Dictionary
 **Gregor (n.):** A magical elf summoned by the forbidden word nationals. ~Caleb Sykes
 
 # H
+**Hammer (n.):** A percussive maintenance tool used to forcefully repair all mechanical problems on the robot.~Joseph Smith
+
+**Hard Stop (n.):** a device used to break parts of a robot when a sensor should be used but isn't; see Mechanical Monkeys~Jalerre
+
 **Harpoons (n):** A beautiful idea.~CaptainKirby
 
 **He Made Me Do It (adj.):** Describes a Get Out Of Jail Free rule, usually invoked to avoid a Red Card, but sometimes just a foul. Not always present in all rule sets.~GaryVoshol
@@ -216,12 +220,16 @@ The FIRST Devil's Dictionary
 # J
 **Jaguar (n):** see Satan~evanperryg
 
+**John-Neun V (n.) :** Someone that at some point everyone was.~Billfred
+
 **Junior (n.):** A sophomore who came back to lead the current crop of sophomores.~EricH
 
 # K
 **Knife switch semaphore :** turn on or plug in your robot. They are more interesting like that.~techhelpbb
 
 # L
+**Lead Quer (n.):** The person you apoligize to, and promise to be on time next time to when you are late to queing.~KosmicKhaos
+
 **LEDs (n.):** the thing that distinguishes the good teams from the bad teams in the eyes of scouters~Jalerre
 
 **Lunacy (n.):** 1. A benchmark used when talking about how bad the current year's game is. 2. The game that must not be named. See Lord Voldemort~Caleb Sykes
@@ -231,6 +239,8 @@ The FIRST Devil's Dictionary
 
 **masochist (n):** within the FIRST context, a null descriptive term for a person. ~GeeTwo
 
+**Match Schedule (n.) :** The only thing that kept you from winning World Championships~Kevin Leonard
+
 **Match Strategy (n):** The result of three drive coaches or other appointed strategists arguing in the queue about who is going to do what and how during the upcoming match.~BL0X3R
 
 **Match Strategy(n.):** A rock paper scissors show off between 3 teams to chose which strategy to go with. ~jajabinx124
@@ -238,6 +248,8 @@ The FIRST Devil's Dictionary
 **Match winner (n.):** A breed that had a startling near extinction event in the year 2015. Only the strongest survived.~Billfred
 
 **mDNS (n.) :** The reason it takes you minutes to connect to your 2015 bot but only seconds to connect to your 2014 bot.~Christopher149
+
+**Mechanical Monkeys (n.):** a group of people on an FRC team with low intelligence that are usually wielding a wrench; a phrase commonly used by programmers~Jalerre
 
 **Mecanum wheel (n.):** A wheel for going in every direction if your programmers had just one more week with the drivetrain.~Billfred
 
@@ -287,6 +299,8 @@ The FIRST Devil's Dictionary
 
 **Picklist (n.):** Horribly organized sheet of paper that is barely readable, and is only understandable by one person. No proper sense of rankings based on robot performance or role, just an assortment of random numbers on paper.~jajabinx124
 
+**Pick Me Maybe (n.):** The only song by ~~Carly Rae Jepsen~~ team 399.~Christopher149
+
 **PID (n.):** something that programmers waste hours of time on ~Jalerre
 
 **Pit (n) :** A volume of space that will expand or contract depending on on who is looking at it. Normally fluctuates around 10'x10'x10'.~dodar
@@ -310,7 +324,7 @@ The FIRST Devil's Dictionary
 **Primary Driver (n):** Student driver that typically controls the movement of the robot. May or may not actually know what the buttons do.~BL0X3R
 
 # Q
-**Question Box (n.):** Obscure square of tape on the floor, often but not always near the scoring table. Used to yell atdiscuss a call with the Head Referee.~EricH
+**Question Box (n.):** Obscure square of tape on the floor, often but not always near the scoring table. Used to ~~yell at~~discuss a call with the Head Referee.~EricH
 
 **Queue (n):** Somewhere teams should be on time but are always late to.~BL0X3R
 
