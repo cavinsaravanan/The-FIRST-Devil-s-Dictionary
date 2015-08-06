@@ -3,6 +3,8 @@ The FIRST Devil's Dictionary
 http://www.chiefdelphi.com/forums/showthread.php?t=137915
 
 # #
+**#2Champs (n.) :** The end of days, see also Championsplit~Kevin Leonard
+
 **2nd:**Year Veteran (n.) See Rookie, but with a little more experience.~EricH
 
 **2002 (N.):** see Team Hammond~carpedav000
@@ -62,7 +64,11 @@ http://www.chiefdelphi.com/forums/showthread.php?t=137915
 **Bumper(n.):** a soft protective device that usually (2010-2014) has a team's number hastily scrawled on with a sharpie marker. They tend to be very unique, often in defiance of attempts to standardize such.~ratdude747
 
 # C
+**Canada:** Better 'armed' than NASA.~techhelpbb
+
 **CCWM (n.):** Consequently Calculated for a Worthier Metric.~efoote868
+
+**Chairmans Award (n.) :** The award your team totally deserved to win and don't the judges know anything gosh~Kevin Leonard
 
 **Championship (n.):** A systematic means of determining that you may or may not be the best in the world.~Billfred
 
@@ -104,6 +110,8 @@ http://www.chiefdelphi.com/forums/showthread.php?t=137915
 **Deodorant (n.):** A hygiene item most well-adjusted human beings use to allow for breathable air in their general vicinity for other people.~ghostmachine360
 
 **Deploying (v.):** what programmers are doing when they aren't coding; see Break, Free Time~Jalerre
+
+**DPR (Defensive Power Rating) (n.):** (1) 2015: Every team had the number but shouldn't have it. :) (2) <=2014: Every team had the number but it was never looked at or known how it was calculated. :) ~BenGuy
 
 **Drive Coach (n):** The only student/mentor on the drive team who actually knows all the buttons, but cannot, by the rules, use them, therefore resorting to yelling directions towards the primary and secondary drivers between communications with other teams during the match. See Conductor, Commander, or Dictator.~BL0X3R
 
@@ -175,6 +183,8 @@ http://www.chiefdelphi.com/forums/showthread.php?t=137915
 **Intake(n.):** spinning wheels on the front of your robot~Mitchell1714
 
 # J
+**Jaguar (n):** see Satan~evanperryg
+
 **Junior (n.):** A sophomore who came back to lead the current crop of sophomores.~EricH
 
 # K
@@ -206,6 +216,8 @@ http://www.chiefdelphi.com/forums/showthread.php?t=137915
 
 **Mentor (n):** An adult who likes to play with children's toys, with children.~Taylor
 
+**Mentor (n.) :** What builds robots that are better than yours~Kevin Leonard
+
 **Mentor-built (adj.):** A term describing a robot that is better than your own, and / or a robot with paint on it.~Chris is me
 
 **Minibot (n.):** A way to spend thousands of dollars on Tetrix motors for the least impressive demo feature ever.~Billfred
@@ -213,6 +225,8 @@ http://www.chiefdelphi.com/forums/showthread.php?t=137915
 **Mountain Dew (n.) :** Fuel that powers the programmers. See Pizza.~Beaker
 
 # N
+**NASA (n.) :** The group that probably built the world champions~Kevin Leonard
+
 **Nationals (n.) :** a term that us old timers use when we've forgotten what year it is, See World Championship (n.), Worlds (n.) ~The_ShamWOW88
 
 **Next year (n.) :** the theoretical point at which your team will achieve a goal which you have thus far fallen short of. ~hectorcastillo
@@ -253,6 +267,8 @@ http://www.chiefdelphi.com/forums/showthread.php?t=137915
 **Plowie (n):** A mythical, cartoonish creation resembling a Reveal Video favorite, Dozer, whose mere mention raises an enraged Dave Lavery from his slumber for a brief episode of spittle-flying and general humbuggery.~Taylor
 
 **Pool Noodle(n):** 1. That thing Human Players throw (see Recycle Rush) to gain extra points 2. That thing I used to carry my team when the robot was not present on the field during competition~Ginger Bread
+
+**Pool Noodle (n):** how to make your low-seed alliance competitive~evanperryg
 
 **Powdercoated (adj.):** An 100% accurate way identify the robots that the mentors clearly built all by themselves.~artK
 
