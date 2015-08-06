@@ -50,7 +50,7 @@ The FIRST Devil's Dictionary
 
 **BBQ Statistics (n.) :** A fun (and questionable) way to see the strength of a regional event.~Beaker
 
-**Beattie (n.) - (Almost) every team's excuse for why they did not win in the early '00s. See Also:** BEAST~tindleroot
+**Beattie (n.):** (Almost) every team's excuse for why they did not win in the early '00s. See Also: BEAST~tindleroot
 
 **Blue banner (n.):** An indisputable symbol of excellence in competition or onetime possession of $300.~Billfred
 
