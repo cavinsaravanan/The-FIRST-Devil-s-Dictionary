@@ -1,3 +1,7 @@
 The FIRST Devil's Dictionary
 ========
-http://www.chiefdelphi.com/forums/showthread.php?t=137915
+[The Dictionary](dictionary.md)
+
+[Cheif Delphi Thread](http://www.chiefdelphi.com/forums/showthread.php?t=137915)
+
+
