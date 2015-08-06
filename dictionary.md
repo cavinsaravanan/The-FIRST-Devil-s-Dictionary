@@ -6,6 +6,12 @@ The FIRST Devil's Dictionary
 # #
 **#2Champs (n.) :** The end of days, see also Championsplit~Kevin Leonard
 
+**1" Drill Bit (n.):** The tool that only comes into use once a year when the weight limit is breached~SeanFitz
+
+**1/8" Drill Bit (n.):** 1. The label on the perpetually vacant slot in the drill bit set. 2.The bit that you use for everything. 3. You bought ten at the start of the season, but they have all mysteriously disappeared by the week before bag.~Joseph Smith
+
+**10-32 Tap (n.):** A ceremonial tool that every freshman must break at least once as a rite of passage.~Joseph Smith
+
 **2nd:**Year Veteran (n.) See Rookie, but with a little more experience.~EricH
 
 **2002 (N.):** see Team Hammond~carpedav000
@@ -19,6 +25,12 @@ The FIRST Devil's Dictionary
 **2015 Q163 (n.) :** Yes, Chute door. See Chute Door.~MikLast
 
 **2015(n.):** a game based off of opr~Mitchell1714
+
+**3/16" Drill Bit (n.):** see 1/8" Drill Bit~Joseph Smith
+
+**3/4" Wrench (n.):** see Hammer~Joseph Smith
+
+**5/32" Drill Bit (n.):** see 1/8" Drill Bit~Joseph Smith
 
 # A
 **Aerial Assault(n.):** Nothing but assaulting in this game, which led to police inquiry (refs.) about charges (fouls). ~jajabinx124
@@ -65,6 +77,12 @@ The FIRST Devil's Dictionary
 **Bumper(n.):** a soft protective device that usually (2010-2014) has a team's number hastily scrawled on with a sharpie marker. They tend to be very unique, often in defiance of attempts to standardize such.~ratdude747
 
 # C
+**C++ (n.):** An arcane language devised by wizards hundreds of years ago.~FlamingSpork
+
+**CAD Software (n):** 1) Your greatest enemy. 2) Your greatest ally.~CaptainKirby
+
+**Camera (n.):** A mythical object that the Electrical subteam promises to put on the robot. See also Vision Processing.~FlamingSpork
+
 **Canada:** Better 'armed' than NASA.~techhelpbb
 
 **CCWM (n.):** Consequently Calculated for a Worthier Metric.~efoote868
@@ -97,6 +115,10 @@ The FIRST Devil's Dictionary
 
 **Cotton Eyed Joe (n):** A series of unintelligible noises that gives me the irresistible urge to go to the bathroom.~Taylor
 
+**CRio (n.):** an antiquated device no longer used in FRC; another name for RoboRio when members forget that there is a new control system~Jalerre
+
+**Custom Dashboard (n.):** a method of determining how much free time your programmers have~Ari423
+
 # D
 **Dance music (n.):** A method of torture so heinous that the CIA outlawed its use in interrogation.~ghostmachine360
 
@@ -114,14 +136,20 @@ The FIRST Devil's Dictionary
 
 **DPR (Defensive Power Rating) (n.):** (1) 2015: Every team had the number but shouldn't have it. :) (2) <=2014: Every team had the number but it was never looked at or known how it was calculated. :) ~BenGuy
 
+**DPR (n):** The stat your team points to when neither its OPR nor its CCWM are impressive.~CaptainKirby
+
 **Drive Coach (n):** The only student/mentor on the drive team who actually knows all the buttons, but cannot, by the rules, use them, therefore resorting to yelling directions towards the primary and secondary drivers between communications with other teams during the match. See Conductor, Commander, or Dictator.~BL0X3R
 
 **Drive Practice (n.):** Time used for testing the autonomous functions of a robot every night the mechanical team is not modifying the robot.~Abhishek R
+
+**Driver Meeting (n.):** A meeting betweeen the drive teams and the head ref. Typically this is the period of time to ask questions that were clearly stated in the rule book, and learn how to play the game.~KosmicKhaos
 
 **Duct tape (n.):** A previously banned substance so fatal to a robot's chances of getting picked it might as well still be.~Billfred
 
 # E
 **Echo Effect (n.):** A type of modification to sound of any kind that creates a repeat of any sound entering the microphone. See 2015 Einstein Quarterfinals.~TheBoulderite
+
+**Einstein (n) :**- Straight madness~Kevin Leonard
 
 **Endgame (n.):** A component of the game that isn't worth very much until powerhouse teams start completing them in faster and faster times. See also~artK
 
@@ -137,6 +165,8 @@ The FIRST Devil's Dictionary
 **FMS (n.):** An almost incomprehensible collection of computers, wires, and network switches designed to never connect your robot and Driver Station on the first attempt. See mDNS.~Aaron.Graeve
 
 **FRC (verb); an acronym standing for Forceful Robot Collisions. Note:** Many consider this synonymous with the 2014 game Ariel Assist.~Munchskull
+
+**FRC (n.):** 1. The greatest thing since sliced bread. ~TheBoulderite
 
 **Freshman (n.) Team go:**fer and filer of all sharp corners.~EricH
 
