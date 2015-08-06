@@ -1,4 +1,4 @@
 # Summary
 
-* Dictionary
+* [Dictionary](dictionary.md)
 
