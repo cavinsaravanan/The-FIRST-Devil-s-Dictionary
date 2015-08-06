@@ -360,6 +360,10 @@ The FIRST Devil's Dictionary
 **Rookie (n.):** A person or team who doesn't know what they're getting into in FRC because it's their first time.~EricH
 
 # S
+**Safety Captain (n.) :**- The role given to a non-drive team member in the pit. Usually given to someone thrown under the bus, but gets to wear a badge of honor. Generally has no authority or knowledge of safety. See Safety.~Michael Hill
+
+**Safety Glasses (n):** The catch-all piece of safety equipment.~CaptainKirby
+
 **Sandstorm (n):** A song played by the DJ to torture the crowd. Closely associated with the Chicken Dance. ~TheBoulderite
 
 **Scorch and burn(v.):** Official strategy of 1678, very effective~Mitchell1714
@@ -441,6 +445,8 @@ The FIRST Devil's Dictionary
 **Week 1 (n.):** The opening weekend of regional and district tournament play...if not for those rebels in South Carolina.~Billfred
 
 **Week 5 (n.):** A magical land where programmers get to code the robot and drivers get their practice. Only certain teams know of its whereabouts.~lucas.alvarez96
+
+**Weight Limit (n.):** A mythical number that, invariably, your team will end up slightly above.~SeanFitz
 
 **West Coast Drive (n.):** Something every new CAD student will try to design without understanding the advantages of one, simply because powerhouse teams use them. ~artK
 
