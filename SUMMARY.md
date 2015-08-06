@@ -1,4 +1,0 @@
-# Summary
-
-* [Dictionary](dictionary.md)
-
