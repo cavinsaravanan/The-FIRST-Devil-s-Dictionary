@@ -353,9 +353,9 @@ The FIRST Devil's Dictionary
 
 **Robot (n.):** a mythical object that programmers are always hearing about but never get to see or touch~Jalerre
 
-**Robot Manual:** (n.) 1. A book we all say we've read, but few actually have. 2. A glass house which some people claim is too opaque, and so throw stones in an attempt to bend.~pmangels17
+**Robot Manual (n.):**  1. A book we all say we've read, but few actually have. 2. A glass house which some people claim is too opaque, and so throw stones in an attempt to bend.~pmangels17
 
-**Robot Troubleshooting(n.):** A time when everyone blames the programmers for the robot not working but in reality it's electrical's/build's fault.~orangelight
+**Robot Troubleshooting (n.):** A time when everyone blames the programmers for the robot not working but in reality it's electrical's/build's fault.~orangelight
 
 **ROBOT! (n.):** Exclamation designed to annoy others into safe practices. Highly ineffective.~James1902
 
