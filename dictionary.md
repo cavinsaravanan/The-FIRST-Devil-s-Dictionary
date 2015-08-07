@@ -19,6 +19,10 @@ The FIRST Devil's Dictionary
 
 **10-32 Tap (n.):** A ceremonial tool that every freshman must break at least once as a rite of passage.~Joseph Smith
 
+**12V solenoid (n.):** An expensive paperweight because the PCM is always set for 24V. ~Caleb Sykes
+
+**24V solenoid (n.):** An expensive paperweight because the PCM is always set for 12V.~Caleb Sykes
+
 **2002 (N.):** see Team Hammond~carpedav000
 
 **2009(n.):** the bad old days~Mitchell1714
@@ -35,6 +39,8 @@ The FIRST Devil's Dictionary
 
 # A
 
+**Acrylic (n.):** A cheaper "replacement" for lexan. Can be identified by a lack of a blue sheen, or more commonly by it's tendency to crack/shatter when actually used on the robot, especially after last minute pit repairs using materials given by neighboring pit. See lexan.~ratdude747
+
 **Aerial Assault(n.):** Nothing but assaulting in this game, which led to police inquiry (refs.) about charges (fouls). ~jajabinx124
 
 **Aerial Assist (n.):** The 2014 game. It's objective is to push the enemy alliance~Henrique Schmit
@@ -46,6 +52,8 @@ The FIRST Devil's Dictionary
 **Always (adj.) :** Happened once... if you squint your eyes and ignore the programmer kicking it a little. See also Average.~Andrew Schreiber
 
 **Andy Baker (n.):** > Chuck Norris~rsisk
+
+**Anodizing Black (v.):** A process which instantly gives a product superior performance.~Owen Busler
 
 **Arena (n):** A structure in which every dimension that matters is constructed outside the tolerances specified in the field drawings (see Bistromathics, recipriversexclusion)~GeeTwo
 
@@ -115,7 +123,7 @@ The FIRST Devil's Dictionary
 
 **chute door (n.):** Yes, Chute Door. See 2015 Q163~efoote868
 
-**CIM (n):** also called CIM motor the most robust container for blue smoke allowed in FRC.~GeeTwo
+**CIM (n), also called CIM motor:** the most robust container for blue smoke allowed in FRC.~GeeTwo
 
 **Cleaning the shop (v):** hazing~Mrcope9
 
@@ -157,11 +165,13 @@ The FIRST Devil's Dictionary
 
 **Deploying (v.):** what programmers are doing when they aren't coding; see Break, Free Time~Jalerre
 
-**DPR (Defensive Power Rating) (n.):** 1. 2015 Every team had the number but shouldn't have it. 2. <= 2014 Every team had the number but it was never looked at or known how it was calculated. ~BenGuy
+**DPR (Defensive Power Rating) (n.):** (1) 2015 Every team had the number but shouldn't have it. (2) <= 2014 Every team had the number but it was never looked at or known how it was calculated.~BenGuy
 
 **DPR (n):** The stat your team points to when neither its OPR nor its CCWM are impressive.~CaptainKirby
 
 **Drive Coach (n):** The only student/mentor on the drive team who actually knows all the buttons, but cannot, by the rules, use them, therefore resorting to yelling directions towards the primary and secondary drivers between communications with other teams during the match. See Conductor, Commander, or Dictator.~BL0X3R
+
+**Drive Practice (n.):** A time set aside for the drive team to watch the programmers debug code.~randantor
 
 **Drive Practice (n.):** Time used for testing the autonomous functions of a robot every night the mechanical team is not modifying the robot.~Abhishek R
 
@@ -179,7 +189,7 @@ The FIRST Devil's Dictionary
 
 **Endgame (n.):** A component of the game that isn't worth very much until powerhouse teams start completing them in faster and faster times. See also~artK
 
-**Ether (n):** or aether; quintessence: the most perfect or typical example of a quality or class, has been known to help those computing OPR, CCWM or correct misinterpretations of mecanum wheels.~efoote868
+**Ether (n) or aether; quintessence :** the most perfect or typical example of a quality or class, has been known to help those computing OPR, CCWM or correct misinterpretations of mecanum wheels.~efoote868
 
 # F
 
@@ -194,6 +204,8 @@ The FIRST Devil's Dictionary
 **FRC (n.):** 1. The greatest thing since sliced bread. 2. An addiction.~TheBoulderite
 
 **FRC (verb); an acronym standing for Forceful Robot Collisions. Note:** Many consider this synonymous with the 2014 game Ariel Assist.~Munchskull
+
+**Free time (n.):** "Undefined"~EricH
 
 **Freshman (n.) Team go:**fer and filer of all sharp corners.~EricH
 
@@ -241,13 +253,15 @@ The FIRST Devil's Dictionary
 
 **Human Player (n):** The student on the drive team who typically introduces game pieces into the field. Usually decided by selecting the one student who earns the least amount of foul points for touching the wrong thing at the wrong time. Doesn't have to know any buttons.~BL0X3R
 
+**Human Player (n.):** The most important/useless member of the drive team.~George1902
+
 # I
 
 **Indiana Robotics Invitational (n.):** A competitive event and the bane of world champions. See OP Robotics.~TheBoulderite
 
 **Inspection (v.):** 1. The first time that many rookie teams learn the robot rules. 2. A process during which teams are asked to put electrical tape over sharp edges of their robot, which will fall off shortly into the first match. 3. Something your alliance partner has not passed.~Joseph Smith
 
-**Inspection :** Activity that occurs at the latest time possible on Thursday. Sometimes leads to cutting the robot in half to either cut weight or size.~Michael Hill
+**Inspection (v.):** Activity that occurs at the latest time possible on Thursday. Sometimes leads to cutting the robot in half to either cut weight or size.~Michael Hill
 
 **Intake(n.):** spinning wheels on the front of your robot~Mitchell1714
 
@@ -261,13 +275,19 @@ The FIRST Devil's Dictionary
 
 # K
 
+**Kit of parts drivetrain (n):** Antithesis to mecanum; A simple, sensible drivetrain configuration that you can actually win with. ~pabeekm
+
 # L
+
+**LabVIEW (n):** That language you always thought was too geeky for you until you realized how great it looked without those braces and big ugly classes.~pabeekm
 
 **Lead Quer (n.):** The person you apoligize to, and promise to be on time next time to when you are late to queing.~KosmicKhaos
 
 **LEDs (n.):** the thing that distinguishes the good teams from the bad teams in the eyes of scouters~Jalerre
 
 **LEDs(n):** Often times the reason your team is noticed by other teams.~Mrcope9
+
+**Lexan (n.):** A very strong, clear material. Despite it's high costs, it is claimed to be in many pits at competitions; if needed a neighboring pit will have a scrap of "such" for you to use. See acrylic.~ratdude747
 
 **Lone Star Regional (n):** Who are The Robonauts taking to Worlds?~Mrcope9
 
@@ -296,6 +316,8 @@ The FIRST Devil's Dictionary
 **Mechanical Monkeys (n.):** a group of people on an FRC team with low intelligence that are usually wielding a wrench; a phrase commonly used by programmers~Jalerre
 
 **Mechanum (n.):** An imaginary word used by individuals to prove their lack of knowledge of omni-directional drive systems.~Caleb Sykes
+
+**Media Team (n):** 1) The reason the slogan "More than Robots" was invented; 2) Those who blind with flashes; 3) Land of punishment for bad builders (IE. If you don't stop stripping those screws, I'm going to put you on the Media Team.)~MysterE
 
 **Mentor (n):** An adult who likes to play with children's toys, with children.~Taylor
 
@@ -353,6 +375,8 @@ The FIRST Devil's Dictionary
 
 **Pit (n) :** A volume of space that will expand or contract depending on on who is looking at it. Normally fluctuates around 10'x10'x10'.~dodar
 
+**Pit Admin (n.):** That voice in your head telling you to report to queuing, you are in the next match.~EricH
+
 **Pit Scouting (v.):** The act of being deceived by a team's member about their robot's capabilities.~Aidan Cox
 
 **Pizza (n.):** the energy source that fuels engineers~NorthernTaco
@@ -383,7 +407,11 @@ The FIRST Devil's Dictionary
 
 **Queue (n):** Somewhere teams should be on time but are always late to.~BL0X3R
 
+**Queuing Team (n., plural):** Cat herders, traffic directors, and "that's the exit gate" group.~EricH
+
 # R
+
+**RAM (n.):** The reason no Java teams ever do vision tracking~JacisNonsense
 
 **Rap music (n.):** A mythical genre of music, generally frowned upon by FIRST at competitions when played.~ghostmachine360
 
@@ -403,11 +431,17 @@ The FIRST Devil's Dictionary
 
 **Reveal Video(n.):** a video in which your robot always looks really good~Mitchell1714
 
+**RI3D (n):** Robot In 3 Days. An annual reminder that we are all just slackers. See cheat sheet.~pabeekm
+
+**RoboRIO (n.):** A device used to store metal shavings from elsewhere on the robot.~randantor
+
 **RoboRIO brownout (v, n):** The GDC's alternative to limiting the number of motors allowed on a robot.~GeeTwo
 
 **Robot (n.):** a mythical object that programmers are always hearing about but never get to see or touch~Jalerre
 
 **Robot (n.):** Something that FRC teams may or may not build. See RC car.~Christopher149
+
+**Robot Inspector (n.):** A nice man who takes care of Curious George.~Caleb Sykes
 
 **Robot Manual (n.):** 1. A book we all say we've read, but few actually have. 2. A glass house which some people claim is too opaque, and so throw stones in an attempt to bend.~pmangels17
 
@@ -420,6 +454,12 @@ The FIRST Devil's Dictionary
 **Rookie (n.):** A person or team who doesn't know what they're getting into in FRC because it's their first time.~EricH
 
 # S
+
+**Safety (n):** 1. Conditions and/or procedures which reduce the likelihood of injuring personnel or damaging equipment. 2. An award at FRC events which some teams think will go to teams who put up posters with lots of yellow and orange, have mascots wearing hard hats and orange vests, and yell Robot! a lot. Sometimes the judges think so, too. 3. A means of scoring defensive points in the mythical upcoming American football-based game. 4. A robot assigned a defensive role in the aforementioned game.~GeeTwo
+
+**Safety (verb):** 1. To shout ROBOT! ROBOT! ROBOT! when transporting a carted robot through the pits regardless of the noise or number of pedestrians around. 2. To create litter by plastering homemade signs on every surface that fits an 8.5x11 sheet of paper. 3. To remind people to wear Personal Protective Equipment correctly.~efoote868
+
+**Safety Adviser (n.):** Person in a green polo shirt whose job often appears to be to force teams to use the LEAST safe way of doing any given work in the pits.~EricH
 
 **Safety Captain (n.) :**- The role given to a non-drive team member in the pit. Usually given to someone thrown under the bus, but gets to wear a badge of honor. Generally has no authority or knowledge of safety. See Safety.~Michael Hill
 
@@ -439,7 +479,11 @@ The FIRST Devil's Dictionary
 
 **Senior (n.):** A student team member (and possibly leader) who will not be a student team member for very long. Usually found by grabbing last year's juniors.~EricH
 
+**Serpentine Draft (n.):** A systematic procedure used to encourage teams to be the 24th best team at the event. ~Caleb Sykes
+
 **Ship day (n.) :** The day a completed robot was hastily packed into a large wooden box with a random assortment of graphics and numbers painted on the side, then shipped off to a faraway place, See Nationals (n.)~The_ShamWOW88
+
+**Sick day (n.):** A day during build season when one takes off due to illness. On this day, any major project that they had been working on for at least a week will be tested by somebody, often a mentor, who has no idea how you intended it to be used. May result in cracked welds, ruined precision machined surfaces/bores, and/or lost magic smoke. ~ratdude747
 
 **Silicon Valley Regional (n):** Who are The Cheesy Poofs taking to Worlds?~Mrcope9
 
@@ -451,9 +495,15 @@ The FIRST Devil's Dictionary
 
 **Sleep(n.):** an illusion from the first Sunday of January to mid February~Mitchell1714
 
+**SmartDashbord (n.):** A convenient place to put a lot of information that the drivers will never look at.~Caleb Sykes
+
+**Snow Day (n.):** The reason the New England District can't have nice things.~Aidan Cox
+
 **Software Problem (n.):** when the robot doesn't work properly~Jalerre
 
 **Sophomore (n.):** A freshman who came back and is now in charge of making said sharp corners.~EricH
+
+**Spirit award (n):** When FIRST congratulates the team who most enthusiastically blocks everyone’s view in the stands. See participation ribbon.~pabeekm
 
 **Stack Attack(n.):** 1. The 2003 FRC game that is among the top three worst games according to most. 2. In 2015, a large scale game of dominoes. A common cause of death in playoffs. See also Darwin Awards.~ratdude747
 
@@ -465,7 +515,7 @@ The FIRST Devil's Dictionary
 
 **Stop Build Day (n):** also known as Bag and Tag Another fairy tale told to help keep rookies going for a few more hours when "Offseason" seems too far away.~GeeTwo
 
-**Swerve Drive (n.) :** a set of mechanisms to ensure the robot will sit dead on the field for half of that robot's first event~Kevin Leonard
+**Swerve Drive (n.):** a set of mechanisms to ensure the robot will sit dead on the field for half of that robot's first event~Kevin Leonard
 
 **Swerve Drive (n.):** Another thing every new CAD student will design, making the "lightest, strongest modules ever" and subsequently forgetting to include the weight of the motors powering it as well as pocketing way too aggressively.~artK
 
@@ -478,6 +528,8 @@ The FIRST Devil's Dictionary
 **Technical Foul(n.):** A soul-crushing 50 point penalty. Second only to a Red Card. In 2014, these were assigned by a lottery, of unknown explainable algorithm. ~ratdude747
 
 **Teh Chezy Pofs(n.):** An FRC team known to set the blue (banner) standard year in and year out. See also Simbotics~Ginger Power
+
+**Tether (n.):** An Ethernet cable noted for its ability to tangle itself when left unsupervised.~randantor
 
 **The Best Team in FRC(n.):** the team you are on~Mitchell1714
 
@@ -528,4 +580,6 @@ The FIRST Devil's Dictionary
 **YMCA (n.):** A song frequently played at FIRST events, especially in the common occurrence of a FMS crash.~Insanity000
 
 # Z
+
+**Zip tie (n.):** The standard fastener used on FRC robots.~randantor
 
