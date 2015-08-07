@@ -157,7 +157,7 @@ The FIRST Devil's Dictionary
 
 **Deploying (v.):** what programmers are doing when they aren't coding; see Break, Free Time~Jalerre
 
-**DPR (Defensive Power Rating) (n.):** (1) 2015: Every team had the number but shouldn't have it. :) (2) <=2014: Every team had the number but it was never looked at or known how it was calculated. :) ~BenGuy
+**DPR (Defensive Power Rating) (n.):** (1) 2015: Every team had the number but shouldn't have it. (2) <= 2014: Every team had the number but it was never looked at or known how it was calculated. ~BenGuy
 
 **DPR (n):** The stat your team points to when neither its OPR nor its CCWM are impressive.~CaptainKirby
 
