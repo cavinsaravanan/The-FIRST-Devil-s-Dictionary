@@ -305,7 +305,7 @@ The FIRST Devil's Dictionary
 
 **Match Strategy(n.):** A rock paper scissors show off between 3 teams to chose which strategy to go with. ~jajabinx124
 
-**Match winner (n.) A breed that had a startling near:**extinction event in the year 2015. Only the strongest survived.~Billfred
+**Match winner (n.):** A breed that had a startling near-extinction event in the year 2015. Only the strongest survived.~Billfred
 
 **mDNS (n.) :** The reason it takes you minutes to connect to your 2015 bot but only seconds to connect to your 2014 bot.~Christopher149
 
@@ -461,7 +461,7 @@ The FIRST Devil's Dictionary
 
 **Safety Adviser (n.):** Person in a green polo shirt whose job often appears to be to force teams to use the LEAST safe way of doing any given work in the pits.~EricH
 
-**Safety Captain (n.) :**- The role given to a non-drive team member in the pit. Usually given to someone thrown under the bus, but gets to wear a badge of honor. Generally has no authority or knowledge of safety. See Safety.~Michael Hill
+**Safety Captain (n.) :** The role given to a non-drive team member in the pit. Usually given to someone thrown under the bus, but gets to wear a badge of honor. Generally has no authority or knowledge of safety. See Safety.~Michael Hill
 
 **Safety Glasses (n):** The catch-all piece of safety equipment.~CaptainKirby
 
