@@ -77,7 +77,7 @@ The FIRST Devil's Dictionary
 
 **BBQ Statistics (n.) :** A fun (and questionable) way to see the strength of a regional event.~Beaker
 
-**Beattie (n.) - (Almost) every team's excuse for why they did not win in the early '00s. See Also:** BEAST~tindleroot
+**Beattie (n.):** (Almost) every team's excuse for why they did not win in the early '00s. See Also: BEAST~tindleroot
 
 **Bill of Materials (n.):** A random list of parts, most of which are on the robot, assembled the night before or morning of inspection.~Matt C
 
