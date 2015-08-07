@@ -6,7 +6,7 @@ The tool that only comes into use once a year when the weight limit is breached~
 
 ## 1/8" Drill Bit 
 
-1.The label on the perpetually vacant slot in the drill bit set. 2. The bit that you use for everything. 3. You bought ten at the start of the season, but they have all mysteriously disappeared by the week before bag.~Joseph Smith
+1.The label on the perpetually vacant slot in the drill bit set. 2.The bit that you use for everything. 3. You bought ten at the start of the season, but they have all mysteriously disappeared by the week before bag.~Joseph Smith
 
 ## 2nd Year Veteran 
 
@@ -92,6 +92,10 @@ A game where times new roman (among other infractions) results in a 50 point Tec
 
 Let's go save the mermaid before Ursula gets her!~Caleb Sykes
 
+## Arms race 
+
+the era from 1947 to 2015 in which FRC was in a state of tension as teams began to stockpile nuclear weapons, in fear that the other alliance may declare a "can war" on them. See 1678.~Abhishek R
+
 ## Autonomous Mode 
 
 A moment of silence observed prior to every Week 1 or Week 2 match.~Dan Petrovic
@@ -104,6 +108,10 @@ In FRC scouting, the greatest element within a data set. Typically only occurs o
 
 something that people only talked about during Recycle Rush~CaptainKirby
 
+## Awards 
+
+A series of achievements given at each event that showcase overall aesthetic appeal of robots and the marketing of teams with under-performing robots. ~Mrcope9
+
 ## Bass 
 
 An anomaly that causes speakers to vibrate the entire room they are in. See Closing Ceremonies.~TheBoulderite
@@ -115,6 +123,10 @@ A fun (and questionable) way to see the strength of a regional event.~Beaker
 ## Beattie 
 
 BEAST~tindleroot
+
+## Bill of Materials 
+
+A random list of parts, most of which are on the robot, assembled the night before or morning of inspection.~Matt C
 
 ## Blue banner 
 
@@ -130,7 +142,7 @@ Describes a rule modification made just prior to competition beginning, because 
 
 ## broken 
 
-The state of a robot after programmers, drivers, or aerial assist have had their way with it.~BL0X3R
+1.The state of a robot after programmers, drivers, or aerial assist have had their way with it.~BL0X3R
 
 ## Bumper 
 
@@ -139,6 +151,10 @@ An assembly of wood, fabric, and pool noodles that is more challenging to build 
 ## Bumper
 
 a soft protective device that usually (2010-2014) has a team's number hastily scrawled on with a sharpie marker. They tend to be very unique, often in defiance of attempts to standardize such.~ratdude747
+
+## Buttons 
+
+Items produced by underclassmen team members with little or developing technical skills. They are then traded with underclassmen members from other teams.~Mrcope9
 
 ## C++ 
 
@@ -196,6 +212,10 @@ Yes, Chute Door. See 2015 Q163~efoote868
 
 the most robust container for blue smoke allowed in FRC.~GeeTwo
 
+## Cleaning the shop 
+
+hazing~Mrcope9
+
 ## Coopertition 
 
 The concept that a team that cannot figure out how to help its alliance by working with teams on its own alliance, will somehow figure out how to help its alliance by working with teams on the other alliance.~omalleyj
@@ -224,6 +244,10 @@ an antiquated device no longer used in FRC; another name for RoboRio when member
 
 a method of determining how much free time your programmers have~Ari423
 
+## Dallas Regional 
+
+Who are The Robowranglers taking to Worlds?~Mrcope9
+
 ## Dance music 
 
 A method of torture so heinous that the CIA outlawed its use in interrogation.~ghostmachine360
@@ -240,9 +264,21 @@ our fearless, denim-clad leader and an inspiration to us all.~hectorcastillo
 
 when programmers bang their heads on the table because the code is correct but the robots not working properly~Jalerre
 
+## Declining 
+
+The reason various teams develop the reputation of being a jerk.~Mrcope9
+
+## Defense 
+
+Something people complain there is too much of until there is a game without it.~The other Gabe
+
 ## Defense 
 
 A role typically given to robots who can't do much more than drive. 2015 Revision Defense? What defense?~Insanity000
+
+## Defense
+
+A stategy used by robots that contribute nothing to the actual game being played. Rendered useless in 2015~Mrcope9
 
 ## Deodorant 
 
@@ -271,6 +307,10 @@ Time used for testing the autonomous functions of a robot every night the mechan
 ## Driver Meeting 
 
 A meeting betweeen the drive teams and the head ref. Typically this is the period of time to ask questions that were clearly stated in the rule book, and learn how to play the game.~KosmicKhaos
+
+## Drivers meeting 
+
+A collection of teenagers who lead others to believe that they may not even know which FRC game is being played as they know so few rules the first day of a competition.~Mrcope9
 
 ## Duct tape 
 
@@ -368,6 +408,10 @@ A magical elf summoned by the forbidden word nationals. ~Caleb Sykes
 
 A percussive maintenance tool used to forcefully repair all mechanical problems on the robot.~Joseph Smith
 
+## Hard reset 
+
+A common device used to manipulate mechanical machinery to revert to the original designed purpose, often found in the form of a large wrench or screwdriver.~lark95
+
 ## Hard Stop 
 
 a device used to break parts of a robot when a sensor should be used but isn't; see Mechanical Monkeys~Jalerre
@@ -404,6 +448,10 @@ A competitive event and the bane of world champions. See OP Robotics.~TheBoulder
 
 1.The first time that many rookie teams learn the robot rules. 2. A process during which teams are asked to put electrical tape over sharp edges of their robot, which will fall off shortly into the first match. 3. Something your alliance partner has not passed.~Joseph Smith
 
+## Inspection 
+
+Activity that occurs at the latest time possible on Thursday. Sometimes leads to cutting the robot in half to either cut weight or size.~Michael Hill
+
 ## Intake
 
 spinning wheels on the front of your robot~Mitchell1714
@@ -427,6 +475,14 @@ The person you apoligize to, and promise to be on time next time to when you are
 ## LEDs 
 
 the thing that distinguishes the good teams from the bad teams in the eyes of scouters~Jalerre
+
+## LEDs
+
+Often times the reason your team is noticed by other teams.~Mrcope9
+
+## Lone Star Regional 
+
+Who are The Robonauts taking to Worlds?~Mrcope9
 
 ## Lunacy 
 
@@ -466,7 +522,7 @@ A wheel for going in every direction if your programmers had just one more week 
 
 ## Mecanum Wheel 
 
-Meh' can um A type of wheel rejected by most. Revised 2015 1. Must have wheel for Recycle Rush 2. Key component of Andy Baker's retirement plan~rsisk
+Meh' can um A type of wheel rejected by most. Revised 2015 1.Must have wheel for Recycle Rush 2. Key component of Andy Baker's retirement plan~rsisk
 
 ## Mechanical Monkeys 
 
@@ -504,6 +560,10 @@ The group that probably built the world champions~Kevin Leonard
 
 a term that us old timers use when we've forgotten what year it is, See World Championship (n.), Worlds (n.) ~The_ShamWOW88
 
+## Nebraska 
+
+A mysterious and uncharted land.~TheBoulderite
+
 ## Next year 
 
 the theoretical point at which your team will achieve a goal which you have thus far fallen short of. ~hectorcastillo
@@ -511,6 +571,10 @@ the theoretical point at which your team will achieve a goal which you have thus
 ## Noodle Agreement 
 
 The backroom deal made over a bowl of ramen to strategically remove any possible strategic thinking from an FRC game through rule updates and FAQ responses.~marshall
+
+## Offense 
+
+Something people always want more of, until a game is played with only it.~The other Gabe
 
 ## Offseason 
 
@@ -523,6 +587,10 @@ A fairy tale told to help keep rookies going for a few more hours.~GeeTwo
 ## OP 
 
 1.Overpowered. 2. A captain who only idiots decline at alliance selection.~Billfred
+
+## OP Robotics 
+
+1.A team from Canada that has never lost a regional and capable of holding its own against Simbotics. 2. The bane of world champions at IRI.~TheBoulderite
 
 ## OP
 
@@ -588,6 +656,10 @@ how to make your low-seed alliance competitive~evanperryg
 
 An 100% accurate way identify the robots that the mentors clearly built all by themselves.~artK
 
+## Power Couple 
+
+Two established and powerful teams from the same geographic area that often team up and win events together. Sometimes includes traveling as one. Ex~Mrcope9
+
 ## Powerhouse 
 
 An adjective assigned with any team that is better than yours.~TheBoulderite
@@ -603,6 +675,10 @@ Student driver that typically controls the movement of the robot. May or may not
 ## Programming Issue 
 
 A term used by the mechanical team to explain any problem they don't yet understand.~UnaffiliatedOpinion
+
+## Qualification pairings
+
+A system of "random" selections that determine what rollerskates a team plays qualification matches with. Also The reason quality teams have a lower ranking at a regional.~Mrcope9
 
 ## Question Box 
 
@@ -656,6 +732,10 @@ The GDC's alternative to limiting the number of motors allowed on a robot.~GeeTw
 
 a mythical object that programmers are always hearing about but never get to see or touch~Jalerre
 
+## Robot 
+
+Something that FRC teams may or may not build. See RC car.~Christopher149
+
 ## Robot Manual 
 
 1.A book we all say we've read, but few actually have. 2. A glass house which some people claim is too opaque, and so throw stones in an attempt to bend.~pmangels17
@@ -668,13 +748,17 @@ A time when everyone blames the programmers for the robot not working but in rea
 
 Exclamation designed to annoy others into safe practices. Highly ineffective.~James1902
 
+## Rollerskate 
+
+A competition robot that consists of a drivetrain and at most 1 mechanism that works 15% of the time. Mostly done by rookie teams. Also see Defense~Mrcope9
+
 ## Rookie 
 
 A person or team who doesn't know what they're getting into in FRC because it's their first time.~EricH
 
 ## Safety Captain 
 
-The role given to a non-drive team member in the pit. Usually given to someone thrown under the bus, but gets to wear a badge of honor. Generally has no authority or knowledge of safety. See Safety.~Michael Hill
+- The role given to a non-drive team member in the pit. Usually given to someone thrown under the bus, but gets to wear a badge of honor. Generally has no authority or knowledge of safety. See Safety.~Michael Hill
 
 ## Safety Glasses 
 
@@ -711,6 +795,10 @@ A student team member (and possibly leader) who will not be a student team membe
 ## Ship day 
 
 The day a completed robot was hastily packed into a large wooden box with a random assortment of graphics and numbers painted on the side, then shipped off to a faraway place, See Nationals (n.)~The_ShamWOW88
+
+## Silicon Valley Regional 
+
+Who are The Cheesy Poofs taking to Worlds?~Mrcope9
 
 ## Simbot SS 
 
@@ -764,6 +852,10 @@ a set of mechanisms to ensure the robot will sit dead on the field for half of t
 
 Another thing every new CAD student will design, making the "lightest, strongest modules ever" and subsequently forgetting to include the weight of the motors powering it as well as pocketing way too aggressively.~artK
 
+## Team Overdrive 
+
+The role model and hero of every rookie team.~TheBoulderite
+
 ## Team Q&A 
 
 The GDC's means of injecting requirements drift into even the most disciplined development processes.~GeeTwo
@@ -779,6 +871,10 @@ An FRC team known to set the blue (banner) standard year in and year out. See al
 ## The Best Team in FRC
 
 the team you are on~Mitchell1714
+
+## The Blue Alliance 
+
+A website containing much of the resources necessary for scouting, watching, and record keeping. Most often visited more than traditional social media from January-April.~Mrcope9
 
 ## The Cheesy Poofs
 
