@@ -944,3 +944,107 @@ A product delivered by the program team which ensures that the sensor will be me
 
 A song frequently played at FIRST events, especially in the common occurrence of a FMS crash.~Insanity000
 
+## 12V solenoid 
+
+An expensive paperweight because the PCM is always set for 24V. ~Caleb Sykes
+
+## 24V solenoid 
+
+An expensive paperweight because the PCM is always set for 12V.~Caleb Sykes
+
+## Acrylic 
+
+A cheaper "replacement" for lexan. Can be identified by a lack of a blue sheen, or more commonly by it's tendency to crack/shatter when actually used on the robot, especially after last minute pit repairs using materials given by neighboring pit. See lexan.~ratdude747
+
+## Anodizing Black 
+
+A process which instantly gives a product superior performance.~Owen Busler
+
+## Drive Practice 
+
+A time set aside for the drive team to watch the programmers debug code.~randantor
+
+## Free time 
+
+"Undefined"~EricH
+
+## Human Player 
+
+The most important/useless member of the drive team.~George1902
+
+## Kit of parts drivetrain 
+
+Antithesis to mecanum; A simple, sensible drivetrain configuration that you can actually win with. ~pabeekm
+
+## LabVIEW 
+
+That language you always thought was too geeky for you until you realized how great it looked without those braces and big ugly classes.~pabeekm
+
+## Lexan 
+
+A very strong, clear material. Despite it's high costs, it is claimed to be in many pits at competitions; if needed a neighboring pit will have a scrap of "such" for you to use. See acrylic.~ratdude747
+
+## Media Team 
+
+1) The reason the slogan "More than Robots" was invented; 2) Those who blind with flashes; 3) Land of punishment for bad builders (IE. If you don't stop stripping those screws, I'm going to put you on the Media Team.)~MysterE
+
+## Pit Admin 
+
+That voice in your head telling you to report to queuing, you are in the next match.~EricH
+
+## Queuing Team 
+
+Cat herders, traffic directors, and "that's the exit gate" group.~EricH
+
+## RI3D 
+
+Robot In 3 Days. An annual reminder that we are all just slackers. See cheat sheet.~pabeekm
+
+## RoboRIO 
+
+A device used to store metal shavings from elsewhere on the robot.~randantor
+
+## Robot Inspector 
+
+A nice man who takes care of Curious George.~Caleb Sykes
+
+## Safety 
+
+1.Conditions and/or procedures which reduce the likelihood of injuring personnel or damaging equipment. 2. An award at FRC events which some teams think will go to teams who put up posters with lots of yellow and orange, have mascots wearing hard hats and orange vests, and yell Robot! a lot. Sometimes the judges think so, too. 3. A means of scoring defensive points in the mythical upcoming American football-based game. 4. A robot assigned a defensive role in the aforementioned game.~GeeTwo
+
+## Safety 
+
+1.To shout ROBOT! ROBOT! ROBOT! when transporting a carted robot through the pits regardless of the noise or number of pedestrians around. 2. To create litter by plastering homemade signs on every surface that fits an 8.5x11 sheet of paper. 3. To remind people to wear Personal Protective Equipment correctly.~efoote868
+
+## Safety Adviser 
+
+Person in a green polo shirt whose job often appears to be to force teams to use the LEAST safe way of doing any given work in the pits.~EricH
+
+## Serpentine Draft 
+
+A systematic procedure used to encourage teams to be the 24th best team at the event. ~Caleb Sykes
+
+## Sick day 
+
+A day during build season when one takes off due to illness. On this day, any major project that they had been working on for at least a week will be tested by somebody, often a mentor, who has no idea how you intended it to be used. May result in cracked welds, ruined precision machined surfaces/bores, and/or lost magic smoke. ~ratdude747
+
+## SmartDashbord 
+
+A convenient place to put a lot of information that the drivers will never look at.~Caleb Sykes
+
+## Snow Day 
+
+The reason the New England District can't have nice things.~Aidan Cox
+
+## Spirit award 
+
+When FIRST congratulates the team who most enthusiastically blocks everyone’s view in the stands. See participation ribbon.~pabeekm
+
+## Tether 
+
+An Ethernet cable noted for its ability to tangle itself when left unsupervised.~randantor
+
+## Zip tie 
+
+The standard fastener used on FRC robots.~randantor
+
