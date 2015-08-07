@@ -1048,3 +1048,91 @@ An Ethernet cable noted for its ability to tangle itself when left unsupervised.
 
 The standard fastener used on FRC robots.~randantor
 
+## 1” Open End Wrench 
+
+Tool used by Drive team, (see Mechanical) to disassemble (see Magic Smoke) Classmate Driver Station during field set up. Sometimes preceded by, “Show us how you shake your thing” and immediately followed by “It must be a programming issue?”~tr6scott
+
+## Adjustable Wrench 
+
+Tool used by students to make hexagonal or square shapes into circles.~marshall
+
+## Battery 
+
+An energy storing device that features black and red wire handles.~Taylor
+
+## Battle Bots 
+
+What everyone first thinks their joining when getting into FRC for the first time.~triumph69
+
+## Bayou Regional 
+
+The regional in which a random Texas team will lead penitent Louisiana or Mississippi teams to World Championship.~MysterE
+
+## Butterfly Drive 
+
+A clever way of combining the scrub of treads with the sloppiness of omniwheels.~Taylor
+
+## C++ 
+
+An older, less logical, more confusing relative of Java.~EmileH
+
+## Coopertition 
+
+A concept that you should work with the opposing alliance to score extra points. Generally is thrown out the window when elimination rounds begin.~TheBoulderite
+
+## Java 
+
+The programming environment that seems daunting at first, and takes 3 years to learn to full potential. See Seniors~EmileH
+
+## LabVIEW 
+
+A programming environment designed to give rookie programmers the illusion of an easy method to program the robot. In reality is highly illogical. See Java~EmileH
+
+## Masking Tape 
+
+The preferred method of displaying a rookie team's number on its bumpers.~Taylor
+
+## Master of Ceremonies 
+
+An individual whose prime objective is to determine different ways to create feedback using a wireless microphone.~Taylor
+
+## Mechanical 
+
+A wrench-swinging monkey who will never be as cool as a programmer. ~cjl2625
+
+## Michigan 
+
+1.Land of a thousand districts. 2. Home of a thousand rookie teams.~Joseph Smith
+
+## Michigan State Championship 
+
+1.From 2009-2014, the highest concentration of competitive robots outside of IRI. 2. In 2015, a brief detour on the way to the World Championship.~Joseph Smith
+
+## Red 2 
+
+The drive station that never connects properly at IRI.~Taylor
+
+## Red Dots 
+
+A method of ensuring a rookie will never again post on www.chiefdelphi.com~Taylor
+
+## Seventh Alliance Captain 
+
+The individual who announces the numbers of teams who (1)have already been selected, (2)are not at the current event, or (3)do not actually exist. Not necessarily in that order.~Taylor
+
+## Stand Scouting 
+
+The action of taking copious notes about the bottom half of an event's teams before covering the papers with a spilled beverage, pizza sauce, and/or chocolate.~Taylor
+
+## UNH District Event 
+
+1.Home to elimination ronds that never goes off smoothly. 2. In 2015 a human players button falls off getting lodged inside a stack in Finals 2, plus the lights go out halfway through Finals 1. 3. In 2014 was home to the most replays due to one failure (exit gate lexan entering the field).~EmileH
+
+## Utah Regional 
+
+of-state team decides to attend and wins.~TheBoulderite
+
+## Water Game 
+
+next year's FRC game~Jalerre
+
