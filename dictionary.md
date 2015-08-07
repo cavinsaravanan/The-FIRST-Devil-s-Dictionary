@@ -4,15 +4,20 @@ The FIRST Devil's Dictionary
 
 
 # #
-**#2Champs (n.) :** The end of days, see also Championsplit~Kevin Leonard
 
 **1" Drill Bit (n.):** The tool that only comes into use once a year when the weight limit is breached~SeanFitz
 
 **1/8" Drill Bit (n.):** 1. The label on the perpetually vacant slot in the drill bit set. 2.The bit that you use for everything. 3. You bought ten at the start of the season, but they have all mysteriously disappeared by the week before bag.~Joseph Smith
 
-**10-32 Tap (n.):** A ceremonial tool that every freshman must break at least once as a rite of passage.~Joseph Smith
+**2nd Year Veteran (n.):** See Rookie, but with a little more experience.~EricH
 
-**2nd:**Year Veteran (n.) See Rookie, but with a little more experience.~EricH
+**3/4" Wrench (n.):** see Hammer~Joseph Smith
+
+**3/16" Drill Bit (n.):** see 1/8" Drill Bit~Joseph Smith
+
+**5/32" Drill Bit (n.):** see 1/8" Drill Bit~Joseph Smith
+
+**10-32 Tap (n.):** A ceremonial tool that every freshman must break at least once as a rite of passage.~Joseph Smith
 
 **2002 (N.):** see Team Hammond~carpedav000
 
@@ -26,13 +31,10 @@ The FIRST Devil's Dictionary
 
 **2015(n.):** a game based off of opr~Mitchell1714
 
-**3/16" Drill Bit (n.):** see 1/8" Drill Bit~Joseph Smith
-
-**3/4" Wrench (n.):** see Hammer~Joseph Smith
-
-**5/32" Drill Bit (n.):** see 1/8" Drill Bit~Joseph Smith
+**#2Champs (n.) :** The end of days, see also Championsplit~Kevin Leonard
 
 # A
+
 **Aerial Assault(n.):** Nothing but assaulting in this game, which led to police inquiry (refs.) about charges (fouls). ~jajabinx124
 
 **Aerial Assist (n.):** The 2014 game. It's objective is to push the enemy alliance~Henrique Schmit
@@ -51,18 +53,25 @@ The FIRST Devil's Dictionary
 
 **Ariel Assist (n.):** Let's go save the mermaid before Ursula gets her!~Caleb Sykes
 
+**Arms race (n.):** the era from 1947 to 2015 in which FRC was in a state of tension as teams began to stockpile nuclear weapons, in fear that the other alliance may declare a "can war" on them. See 1678.~Abhishek R
+
 **Autonomous Mode (n):** A moment of silence observed prior to every Week 1 or Week 2 match.~Dan Petrovic
 
 **Average (n.) :** In FRC scouting, the greatest element within a data set. Typically only occurs once in the data set. Often only on a practice field with no other robots.~Karthik
 
 **Average Match Score (n):** something that people only talked about during Recycle Rush~CaptainKirby
 
+**Awards (n):** A series of achievements given at each event that showcase overall aesthetic appeal of robots and the marketing of teams with under-performing robots. ~Mrcope9
+
 # B
+
 **Bass (n.):** An anomaly that causes speakers to vibrate the entire room they are in. See Closing Ceremonies.~TheBoulderite
 
 **BBQ Statistics (n.) :** A fun (and questionable) way to see the strength of a regional event.~Beaker
 
-**Beattie (n.):** (Almost) every team's excuse for why they did not win in the early '00s. See Also: BEAST~tindleroot
+**Beattie (n.) - (Almost) every team's excuse for why they did not win in the early '00s. See Also:** BEAST~tindleroot
+
+**Bill of Materials (n.):** A random list of parts, most of which are on the robot, assembled the night before or morning of inspection.~Matt C
 
 **Blue banner (n.):** An indisputable symbol of excellence in competition or onetime possession of $300.~Billfred
 
@@ -76,14 +85,17 @@ The FIRST Devil's Dictionary
 
 **Bumper(n.):** a soft protective device that usually (2010-2014) has a team's number hastily scrawled on with a sharpie marker. They tend to be very unique, often in defiance of attempts to standardize such.~ratdude747
 
+**Buttons (n):** Items produced by underclassmen team members with little or developing technical skills. They are then traded with underclassmen members from other teams.~Mrcope9
+
 # C
+
 **C++ (n.):** An arcane language devised by wizards hundreds of years ago.~FlamingSpork
 
 **CAD Software (n):** 1) Your greatest enemy. 2) Your greatest ally.~CaptainKirby
 
 **Camera (n.):** A mythical object that the Electrical subteam promises to put on the robot. See also Vision Processing.~FlamingSpork
 
-**Canada:** Better 'armed' than NASA.~techhelpbb
+**Canada (n.):** Better 'armed' than NASA.~techhelpbb
 
 **CCWM (n.):** Consequently Calculated for a Worthier Metric.~efoote868
 
@@ -103,7 +115,9 @@ The FIRST Devil's Dictionary
 
 **chute door (n.):** Yes, Chute Door. See 2015 Q163~efoote868
 
-**CIM (n), also called CIM motor:** the most robust container for blue smoke allowed in FRC.~GeeTwo
+**CIM (n):** also called CIM motor the most robust container for blue smoke allowed in FRC.~GeeTwo
+
+**Cleaning the shop (v):** hazing~Mrcope9
 
 **Coopertition (n.):** The concept that a team that cannot figure out how to help its alliance by working with teams on its own alliance, will somehow figure out how to help its alliance by working with teams on the other alliance.~omalleyj
 
@@ -120,6 +134,9 @@ The FIRST Devil's Dictionary
 **Custom Dashboard (n.):** a method of determining how much free time your programmers have~Ari423
 
 # D
+
+**Dallas Regional (n):** Who are The Robowranglers taking to Worlds?~Mrcope9
+
 **Dance music (n.):** A method of torture so heinous that the CIA outlawed its use in interrogation.~ghostmachine360
 
 **Dave Lavery (n.):** A male individual, known for carrying red herrings, wearing shirts reminiscent of the 50th state, eating large amounts of fried plastic, and having vastly superior body-supporting limbs to Amanda Morrison.~thatprogrammer
@@ -128,7 +145,13 @@ The FIRST Devil's Dictionary
 
 **Debugging (v.):** when programmers bang their heads on the table because the code is correct but the robots not working properly~Jalerre
 
+**Declining (v):** The reason various teams develop the reputation of being a jerk.~Mrcope9
+
+**Defense (n):** Something people complain there is too much of until there is a game without it.~The other Gabe
+
 **Defense (n.):** A role typically given to robots who can't do much more than drive. 2015 Revision Defense? What defense?~Insanity000
+
+**Defense(n/v):** A stategy used by robots that contribute nothing to the actual game being played. Rendered useless in 2015~Mrcope9
 
 **Deodorant (n.):** A hygiene item most well-adjusted human beings use to allow for breathable air in their general vicinity for other people.~ghostmachine360
 
@@ -144,18 +167,22 @@ The FIRST Devil's Dictionary
 
 **Driver Meeting (n.):** A meeting betweeen the drive teams and the head ref. Typically this is the period of time to ask questions that were clearly stated in the rule book, and learn how to play the game.~KosmicKhaos
 
-**Duct tape (n.):** A previously banned substance so fatal to a robot's chances of getting picked it might as well still be.~Billfred
+**Drivers meeting (n):** A collection of teenagers who lead others to believe that they may not even know which FRC game is being played as they know so few rules the first day of a competition.~Mrcope9
+
+**Duct tape (n.) A previously:**banned substance so fatal to a robot's chances of getting picked it might as well still be.~Billfred
 
 # E
+
 **Echo Effect (n.):** A type of modification to sound of any kind that creates a repeat of any sound entering the microphone. See 2015 Einstein Quarterfinals.~TheBoulderite
 
-**Einstein (n) :**- Straight madness~Kevin Leonard
+**Einstein (n) :** Straight madness~Kevin Leonard
 
 **Endgame (n.):** A component of the game that isn't worth very much until powerhouse teams start completing them in faster and faster times. See also~artK
 
-**Ether (n) or aether; quintessence :** the most perfect or typical example of a quality or class, has been known to help those computing OPR, CCWM or correct misinterpretations of mecanum wheels.~efoote868
+**Ether (n):** or aether; quintessence: the most perfect or typical example of a quality or class, has been known to help those computing OPR, CCWM or correct misinterpretations of mecanum wheels.~efoote868
 
 # F
+
 **Field Fault (n.):** One of the many FMS standard operating procedures and the one you pray for when a mach is going poorly. Usually appears once in every 15 matches for no reason.~Aaron.Graeve
 
 **Finished (adj.) :** the state of a robot, system, or component that appears to be mechanically complete, before any software is tested.~BenGuy
@@ -164,9 +191,9 @@ The FIRST Devil's Dictionary
 
 **FMS (n.):** An almost incomprehensible collection of computers, wires, and network switches designed to never connect your robot and Driver Station on the first attempt. See mDNS.~Aaron.Graeve
 
-**FRC (verb):** an acronym standing for Forceful Robot Collisions. Note: Many consider this synonymous with the 2014 game Ariel Assist.~Munchskull
-
 **FRC (n.):** 1. The greatest thing since sliced bread. 2. An addiction.~TheBoulderite
+
+**FRC (verb); an acronym standing for Forceful Robot Collisions. Note:** Many consider this synonymous with the 2014 game Ariel Assist.~Munchskull
 
 **Freshman (n.) Team go:**fer and filer of all sharp corners.~EricH
 
@@ -175,6 +202,7 @@ The FIRST Devil's Dictionary
 **Full Field (n.) :** A magical environment which very few teams have, but many want.~Beaker
 
 # G
+
 **Game Announcer (n):** A human with a microphone that is ignored by everybody. Only intelligible on unmuted webcasts, which do not actually exist.~Taylor
 
 **Game Hint (n):** A device of mass torture, esp. one which functions best with the consent of the torturees.~GeeTwo
@@ -194,7 +222,10 @@ The FIRST Devil's Dictionary
 **Gregor (n.):** A magical elf summoned by the forbidden word nationals. ~Caleb Sykes
 
 # H
+
 **Hammer (n.):** A percussive maintenance tool used to forcefully repair all mechanical problems on the robot.~Joseph Smith
+
+**Hard reset (n):** A common device used to manipulate mechanical machinery to revert to the original designed purpose, often found in the form of a large wrench or screwdriver.~lark95
 
 **Hard Stop (n.):** a device used to break parts of a robot when a sensor should be used but isn't; see Mechanical Monkeys~Jalerre
 
@@ -211,13 +242,17 @@ The FIRST Devil's Dictionary
 **Human Player (n):** The student on the drive team who typically introduces game pieces into the field. Usually decided by selecting the one student who earns the least amount of foul points for touching the wrong thing at the wrong time. Doesn't have to know any buttons.~BL0X3R
 
 # I
+
 **Indiana Robotics Invitational (n.):** A competitive event and the bane of world champions. See OP Robotics.~TheBoulderite
 
 **Inspection (v.):** 1. The first time that many rookie teams learn the robot rules. 2. A process during which teams are asked to put electrical tape over sharp edges of their robot, which will fall off shortly into the first match. 3. Something your alliance partner has not passed.~Joseph Smith
 
+**Inspection :** Activity that occurs at the latest time possible on Thursday. Sometimes leads to cutting the robot in half to either cut weight or size.~Michael Hill
+
 **Intake(n.):** spinning wheels on the front of your robot~Mitchell1714
 
 # J
+
 **Jaguar (n):** see Satan~evanperryg
 
 **John-Neun V (n.) :** Someone that at some point everyone was.~Billfred
@@ -225,16 +260,21 @@ The FIRST Devil's Dictionary
 **Junior (n.):** A sophomore who came back to lead the current crop of sophomores.~EricH
 
 # K
-**Knife switch semaphore :** turn on or plug in your robot. They are more interesting like that.~techhelpbb
 
 # L
+
 **Lead Quer (n.):** The person you apoligize to, and promise to be on time next time to when you are late to queing.~KosmicKhaos
 
 **LEDs (n.):** the thing that distinguishes the good teams from the bad teams in the eyes of scouters~Jalerre
 
+**LEDs(n):** Often times the reason your team is noticed by other teams.~Mrcope9
+
+**Lone Star Regional (n):** Who are The Robonauts taking to Worlds?~Mrcope9
+
 **Lunacy (n.):** 1. A benchmark used when talking about how bad the current year's game is. 2. The game that must not be named. See Lord Voldemort~Caleb Sykes
 
 # M
+
 **Magic Smoke (n.) :** Powers motors and other electronic devices. Teams try their best to not release it. See Stall Current.~Beaker
 
 **masochist (n):** within the FIRST context, a null descriptive term for a person. ~GeeTwo
@@ -245,15 +285,15 @@ The FIRST Devil's Dictionary
 
 **Match Strategy(n.):** A rock paper scissors show off between 3 teams to chose which strategy to go with. ~jajabinx124
 
-**Match winner (n.):** A breed that had a startling near extinction event in the year 2015. Only the strongest survived.~Billfred
+**Match winner (n.) A breed that had a startling near:**extinction event in the year 2015. Only the strongest survived.~Billfred
 
 **mDNS (n.) :** The reason it takes you minutes to connect to your 2015 bot but only seconds to connect to your 2014 bot.~Christopher149
-
-**Mechanical Monkeys (n.):** a group of people on an FRC team with low intelligence that are usually wielding a wrench; a phrase commonly used by programmers~Jalerre
 
 **Mecanum wheel (n.):** A wheel for going in every direction if your programmers had just one more week with the drivetrain.~Billfred
 
 **Mecanum Wheel (n.):** Meh' can um A type of wheel rejected by most. Revised 2015 1. Must have wheel for Recycle Rush 2. Key component of Andy Baker's retirement plan~rsisk
+
+**Mechanical Monkeys (n.):** a group of people on an FRC team with low intelligence that are usually wielding a wrench; a phrase commonly used by programmers~Jalerre
 
 **Mechanum (n.):** An imaginary word used by individuals to prove their lack of knowledge of omni-directional drive systems.~Caleb Sykes
 
@@ -268,20 +308,28 @@ The FIRST Devil's Dictionary
 **Mountain Dew (n.) :** Fuel that powers the programmers. See Pizza.~Beaker
 
 # N
+
 **NASA (n.) :** The group that probably built the world champions~Kevin Leonard
 
 **Nationals (n.) :** a term that us old timers use when we've forgotten what year it is, See World Championship (n.), Worlds (n.) ~The_ShamWOW88
+
+**Nebraska (n.):** A mysterious and uncharted land.~TheBoulderite
 
 **Next year (n.) :** the theoretical point at which your team will achieve a goal which you have thus far fallen short of. ~hectorcastillo
 
 **Noodle Agreement (n.):** The backroom deal made over a bowl of ramen to strategically remove any possible strategic thinking from an FRC game through rule updates and FAQ responses.~marshall
 
 # O
+
+**Offense (n):** Something people always want more of, until a game is played with only it.~The other Gabe
+
 **Offseason (n) :** See build season.~DohertyBilly
 
 **Offseason (n):** A fairy tale told to help keep rookies going for a few more hours.~GeeTwo
 
 **OP (adj.):** 1. Overpowered. 2. A captain who only idiots decline at alliance selection.~Billfred
+
+**OP Robotics (n.):** 1. A team from Canada that has never lost a regional and capable of holding its own against Simbotics. 2. The bane of world champions at IRI.~TheBoulderite
 
 **OP(n.):** 1. An FRC team rumored to have never lost a Regional. 2. A dominant robot creating force that makes you smack your forehead at the end of each build season and ask yourself why you didn't just do what they did.~Ginger Power
 
@@ -291,15 +339,15 @@ The FIRST Devil's Dictionary
 
 **OPR (n.):** Objectively Preferred Rating.~efoote868
 
-
 # P
+
 **Pedestal (n.):** A container to permanently hold game objects. See Aerial Assist~Henrique Schmit
 
-**Picklist (n.) :** Hastily written scribblings from 4 AM that are incomprehensible when it matters most, or something the 5th-8th alliance captains never seem to have~Kevin Leonard
+**Pick Me Maybe (n.):** The only song by Carly Rae Jepsen team 399.~Christopher149
 
-**Picklist (n.):** Horribly organized sheet of paper that is barely readable, and is only understandable by one person. No proper sense of rankings based on robot performance or role, just an assortment of random numbers on paper.~jajabinx124
+**Picklist (n.) :**Hastily written scribblings from 4 AM that are incomprehensible when it matters most, ~Kevin Leonard
 
-**Pick Me Maybe (n.):** The only song by ~~Carly Rae Jepsen~~ team 399.~Christopher149
+**Picklist(n.):** Horribly organized sheet of paper that is barely readable, and is only understandable by one person. No proper sense of rankings based on robot performance or role, just an assortment of random numbers on paper.~jajabinx124
 
 **PID (n.):** something that programmers waste hours of time on ~Jalerre
 
@@ -311,11 +359,13 @@ The FIRST Devil's Dictionary
 
 **Plowie (n):** A mythical, cartoonish creation resembling a Reveal Video favorite, Dozer, whose mere mention raises an enraged Dave Lavery from his slumber for a brief episode of spittle-flying and general humbuggery.~Taylor
 
-**Pool Noodle(n):** 1. That thing Human Players throw (see Recycle Rush) to gain extra points 2. That thing I used to carry my team when the robot was not present on the field during competition~Ginger Bread
-
 **Pool Noodle (n):** how to make your low-seed alliance competitive~evanperryg
 
+**Pool Noodle(n):** 1. That thing Human Players throw (see Recycle Rush) to gain extra points 2. That thing I used to carry my team when the robot was not present on the field during competition~Ginger Bread
+
 **Powdercoated (adj.):** An 100% accurate way identify the robots that the mentors clearly built all by themselves.~artK
+
+**Power Couple (n):** Two established and powerful teams from the same geographic area that often team up and win events together. Sometimes includes traveling as one. Ex~Mrcope9
 
 **Powerhouse (adj.):** An adjective assigned with any team that is better than yours.~TheBoulderite
 
@@ -326,11 +376,15 @@ The FIRST Devil's Dictionary
 **Programming Issue (n.):** A term used by the mechanical team to explain any problem they don't yet understand.~UnaffiliatedOpinion
 
 # Q
-**Question Box (n.):** Obscure square of tape on the floor, often but not always near the scoring table. Used to ~~yell at~~discuss a call with the Head Referee.~EricH
+
+**Qualification pairings(n):** A system of "random" selections that determine what rollerskates a team plays qualification matches with. Also The reason quality teams have a lower ranking at a regional.~Mrcope9
+
+**Question Box (n.):** Obscure square of tape on the floor, often but not always near the scoring table. Used to yell atdiscuss a call with the Head Referee.~EricH
 
 **Queue (n):** Somewhere teams should be on time but are always late to.~BL0X3R
 
 # R
+
 **Rap music (n.):** A mythical genre of music, generally frowned upon by FIRST at competitions when played.~ghostmachine360
 
 **Raul Rule (n.):** A rule modification made after competition begins, because the GDC didn't see it coming. See Stacking Robots.~GaryVoshol
@@ -353,15 +407,20 @@ The FIRST Devil's Dictionary
 
 **Robot (n.):** a mythical object that programmers are always hearing about but never get to see or touch~Jalerre
 
-**Robot Manual (n.):**  1. A book we all say we've read, but few actually have. 2. A glass house which some people claim is too opaque, and so throw stones in an attempt to bend.~pmangels17
+**Robot (n.):** Something that FRC teams may or may not build. See RC car.~Christopher149
 
-**Robot Troubleshooting (n.):** A time when everyone blames the programmers for the robot not working but in reality it's electrical's/build's fault.~orangelight
+**Robot Manual (n.):** 1. A book we all say we've read, but few actually have. 2. A glass house which some people claim is too opaque, and so throw stones in an attempt to bend.~pmangels17
+
+**Robot Troubleshooting(n.):** A time when everyone blames the programmers for the robot not working but in reality it's electrical's/build's fault.~orangelight
 
 **ROBOT! (n.):** Exclamation designed to annoy others into safe practices. Highly ineffective.~James1902
+
+**Rollerskate (n):** A competition robot that consists of a drivetrain and at most 1 mechanism that works 15% of the time. Mostly done by rookie teams. Also see Defense~Mrcope9
 
 **Rookie (n.):** A person or team who doesn't know what they're getting into in FRC because it's their first time.~EricH
 
 # S
+
 **Safety Captain (n.) :**- The role given to a non-drive team member in the pit. Usually given to someone thrown under the bus, but gets to wear a badge of honor. Generally has no authority or knowledge of safety. See Safety.~Michael Hill
 
 **Safety Glasses (n):** The catch-all piece of safety equipment.~CaptainKirby
@@ -376,13 +435,13 @@ The FIRST Devil's Dictionary
 
 **Secondary Driver (n):** Student driver that typically controls the movement of a manipulator or non-drive subsystem. Claims to know the buttons better than the primary driver, but most likely doesn't.~BL0X3R
 
-**Segue:**~techhelpbb
-
 **Semifinals (n.):** the time at which the team packs up the pit~Jalerre
 
 **Senior (n.):** A student team member (and possibly leader) who will not be a student team member for very long. Usually found by grabbing last year's juniors.~EricH
 
 **Ship day (n.) :** The day a completed robot was hastily packed into a large wooden box with a random assortment of graphics and numbers painted on the side, then shipped off to a faraway place, See Nationals (n.)~The_ShamWOW88
+
+**Silicon Valley Regional (n):** Who are The Cheesy Poofs taking to Worlds?~Mrcope9
 
 **Simbot SS (n) :** The standard of yearly robot success~dodar
 
@@ -396,21 +455,24 @@ The FIRST Devil's Dictionary
 
 **Sophomore (n.):** A freshman who came back and is now in charge of making said sharp corners.~EricH
 
-**Stack Attack (n.):** 1. The 2003 FRC game that is among the top three worst games according to most. 2. In 2015, a large scale game of dominoes. A common cause of death in playoffs. See also Darwin Awards.~ratdude747
+**Stack Attack(n.):** 1. The 2003 FRC game that is among the top three worst games according to most. 2. In 2015, a large scale game of dominoes. A common cause of death in playoffs. See also Darwin Awards.~ratdude747
 
 **Stall Current (n):** quantitative measure of a motor's potential to release magic smoke, either from itself or from other electrically connected things~Richard Wallace
 
 **Stall Torque (n):** quantitative measure of a motor's capability to twist things until they break~Richard Wallace
 
-**Stop Build Day (n):**, also known as Bag and Tag Another fairy tale told to help keep rookies going for a few more hours when "Offseason" seems too far away.~GeeTwo
-
 **Stop Build Day (n):** A day that is 45 days after teams start building their robots and 63 days before all teams have stopped.~Nemo
+
+**Stop Build Day (n):** also known as Bag and Tag Another fairy tale told to help keep rookies going for a few more hours when "Offseason" seems too far away.~GeeTwo
 
 **Swerve Drive (n.) :** a set of mechanisms to ensure the robot will sit dead on the field for half of that robot's first event~Kevin Leonard
 
 **Swerve Drive (n.):** Another thing every new CAD student will design, making the "lightest, strongest modules ever" and subsequently forgetting to include the weight of the motors powering it as well as pocketing way too aggressively.~artK
 
 # T
+
+**Team Overdrive (n.):** The role model and hero of every rookie team.~TheBoulderite
+
 **Team Q&A (n):** The GDC's means of injecting requirements drift into even the most disciplined development processes.~GeeTwo
 
 **Technical Foul(n.):** A soul-crushing 50 point penalty. Second only to a Red Card. In 2014, these were assigned by a lottery, of unknown explainable algorithm. ~ratdude747
@@ -419,14 +481,18 @@ The FIRST Devil's Dictionary
 
 **The Best Team in FRC(n.):** the team you are on~Mitchell1714
 
+**The Blue Alliance (n):** A website containing much of the resources necessary for scouting, watching, and record keeping. Most often visited more than traditional social media from January-April.~Mrcope9
+
 **The Cheesy Poofs(n.):** also the best team in the world, FRC 254, trades this spot every other year to Simbotics~Mitchell1714
 
 **Theory (n.) :** A mythical place where all robot designs work.~MechEng83
 
 # U
+
 **Unprocessed litter (n.):** All portions of pool noodles thrown on the field in the last match that haven't been put in the trash can yet.~Billfred
 
 # V
+
 **Veteran (n.):** A person or team who has been around a little while, knows what they're getting into, and still comes back. Also see lunatic.~EricH
 
 **VEXpro (n.):** Innovation First's method to make building FRC robots simple after losing the contract on their method to make controlling FRC robots simple.~Billfred
@@ -436,9 +502,10 @@ The FIRST Devil's Dictionary
 **Vision Processing (n.):** the thing programmers say they're going to do every year but never have time for ~Jalerre
 
 # W
+
 **Wall (N.):** An inanimate object commonly used to stop robots with faulty autonomous code~carpedav000
 
-**Watched pot :** the period between placing all the robots on an FRC field and the robots actually obtaining sufficient field connectivity to run a match.~techhelpbb
+**Watched pot (n.):** the period between placing all the robots on an FRC field and the robots actually obtaining sufficient field connectivity to run a match.~techhelpbb
 
 **Water Game (n):** The universal solvent solution for game hints according to a variety of CD posters.~GeeTwo
 
@@ -457,6 +524,8 @@ The FIRST Devil's Dictionary
 # X
 
 # Y
+
 **YMCA (n.):** A song frequently played at FIRST events, especially in the common occurrence of a FMS crash.~Insanity000
 
 # Z
+
