@@ -9,6 +9,8 @@ The FIRST Devil's Dictionary
 
 **1/8" Drill Bit (n.):** 1. The label on the perpetually vacant slot in the drill bit set. 2.The bit that you use for everything. 3. You bought ten at the start of the season, but they have all mysteriously disappeared by the week before bag.~Joseph Smith
 
+**1” Open End Wrench (n) :** Tool used by Drive team, (see Mechanical) to disassemble (see Magic Smoke) Classmate Driver Station during field set up. Sometimes preceded by, “Show us how you shake your thing” and immediately followed by “It must be a programming issue?”~tr6scott
+
 **2nd Year Veteran (n.):** See Rookie, but with a little more experience.~EricH
 
 **3/4" Wrench (n.):** see Hammer~Joseph Smith
@@ -40,6 +42,8 @@ The FIRST Devil's Dictionary
 # A
 
 **Acrylic (n.):** A cheaper "replacement" for lexan. Can be identified by a lack of a blue sheen, or more commonly by it's tendency to crack/shatter when actually used on the robot, especially after last minute pit repairs using materials given by neighboring pit. See lexan.~ratdude747
+
+**Adjustable Wrench (n):** Tool used by students to make hexagonal or square shapes into circles.~marshall
 
 **Aerial Assault(n.):** Nothing but assaulting in this game, which led to police inquiry (refs.) about charges (fouls). ~jajabinx124
 
@@ -75,6 +79,12 @@ The FIRST Devil's Dictionary
 
 **Bass (n.):** An anomaly that causes speakers to vibrate the entire room they are in. See Closing Ceremonies.~TheBoulderite
 
+**Battery (n):** An energy storing device that features black and red wire handles.~Taylor
+
+**Battle Bots (n.):** What everyone first thinks their joining when getting into FRC for the first time.~triumph69
+
+**Bayou Regional (n):** The regional in which a random Texas team will lead penitent Louisiana or Mississippi teams to World Championship.~MysterE
+
 **BBQ Statistics (n.) :** A fun (and questionable) way to see the strength of a regional event.~Beaker
 
 **Beattie (n.):** (Almost) every team's excuse for why they did not win in the early '00s. See Also: BEAST~tindleroot
@@ -87,17 +97,21 @@ The FIRST Devil's Dictionary
 
 **Break the game (adj.):** Describes a rule modification made just prior to competition beginning, because the GDC didn't see it coming. Also see He Made Me Do It.~GaryVoshol
 
-**broken (n):** 1. The state of a robot after programmers, drivers, or aerial assist have had their way with it.~BL0X3R
+**Broken (n):** 1. The state of a robot after programmers, drivers, or aerial assist have had their way with it.~BL0X3R
 
 **Bumper (n.):** An assembly of wood, fabric, and pool noodles that is more challenging to build than a 120 pound robot~NorthernTaco
 
 **Bumper(n.):** a soft protective device that usually (2010-2014) has a team's number hastily scrawled on with a sharpie marker. They tend to be very unique, often in defiance of attempts to standardize such.~ratdude747
+
+**Butterfly Drive (n):** A clever way of combining the scrub of treads with the sloppiness of omniwheels.~Taylor
 
 **Buttons (n):** Items produced by underclassmen team members with little or developing technical skills. They are then traded with underclassmen members from other teams.~Mrcope9
 
 # C
 
 **C++ (n.):** An arcane language devised by wizards hundreds of years ago.~FlamingSpork
+
+**C++ (n.):** An older, less logical, more confusing relative of Java.~EmileH
 
 **CAD Software (n):** 1) Your greatest enemy. 2) Your greatest ally.~CaptainKirby
 
@@ -115,17 +129,19 @@ The FIRST Devil's Dictionary
 
 **Chicken Dance (n.):** The official dance of team 217 ThunderChickens.~Christopher149
 
-**chiefdelphi (n):** An internet bulletin board site where users can insult others' creations, or complain how things aren't how they used to be.~Taylor
+**Chiefdelphi (n):** An internet bulletin board site where users can insult others' creations, or complain how things aren't how they used to be.~Taylor
 
 **Christmas Tree (n.):** The only festive phrase that will make FTAs universally frustrated. See Field Fault.~Aaron.Graeve
 
 **Christmas Tree(n.):** A bright and colorful cue from FMS for the DJ to play the chicken dance, YMCA, cupid shuffle, or the hokey pokey. Also a cue for the FTA(s), FTAA(s), and Scorekeeper(s) to suddenly appear as if they really, really, REALLY dislike said music, usually in form of a scowl.~ratdude747
 
-**chute door (n.):** Yes, Chute Door. See 2015 Q163~efoote868
+**Chute door (n.):** Yes, Chute Door. See 2015 Q163~efoote868
 
 **CIM (n):** also called CIM motor the most robust container for blue smoke allowed in FRC.~GeeTwo
 
 **Cleaning the shop (v):** hazing~Mrcope9
+
+**Coopertition (n.):** A concept that you should work with the opposing alliance to score extra points. Generally is thrown out the window when elimination rounds begin.~TheBoulderite
 
 **Coopertition (n.):** The concept that a team that cannot figure out how to help its alliance by working with teams on its own alliance, will somehow figure out how to help its alliance by working with teams on the other alliance.~omalleyj
 
@@ -179,7 +195,7 @@ The FIRST Devil's Dictionary
 
 **Drivers meeting (n):** A collection of teenagers who lead others to believe that they may not even know which FRC game is being played as they know so few rules the first day of a competition.~Mrcope9
 
-**Duct tape (n.):** A previouslybanned substance so fatal to a robot's chances of getting picked it might as well still be.~Billfred
+**Duct tape (n.):** A previously: banned substance so fatal to a robot's chances of getting picked it might as well still be.~Billfred
 
 # E
 
@@ -189,7 +205,7 @@ The FIRST Devil's Dictionary
 
 **Endgame (n.):** A component of the game that isn't worth very much until powerhouse teams start completing them in faster and faster times. See also~artK
 
-**Ether (n) or aether; quintessence :** the most perfect or typical example of a quality or class, has been known to help those computing OPR, CCWM or correct misinterpretations of mecanum wheels.~efoote868
+**Ether (n):** or aether; quintessence: the most perfect or typical example of a quality or class, has been known to help those computing OPR, CCWM or correct misinterpretations of mecanum wheels.~efoote868
 
 # F
 
@@ -269,6 +285,8 @@ The FIRST Devil's Dictionary
 
 **Jaguar (n):** see Satan~evanperryg
 
+**Java (n.):** The programming environment that seems daunting at first, and takes 3 years to learn to full potential. See Seniors~EmileH
+
 **John-Neun V (n.) :** Someone that at some point everyone was.~Billfred
 
 **Junior (n.):** A sophomore who came back to lead the current crop of sophomores.~EricH
@@ -280,6 +298,8 @@ The FIRST Devil's Dictionary
 # L
 
 **LabVIEW (n):** That language you always thought was too geeky for you until you realized how great it looked without those braces and big ugly classes.~pabeekm
+
+**LabVIEW (n.):** A programming environment designed to give rookie programmers the illusion of an easy method to program the robot. In reality is highly illogical. See Java~EmileH
 
 **Lead Quer (n.):** The person you apoligize to, and promise to be on time next time to when you are late to queing.~KosmicKhaos
 
@@ -297,7 +317,11 @@ The FIRST Devil's Dictionary
 
 **Magic Smoke (n.) :** Powers motors and other electronic devices. Teams try their best to not release it. See Stall Current.~Beaker
 
-**masochist (n):** within the FIRST context, a null descriptive term for a person. ~GeeTwo
+**Masking Tape (n):** The preferred method of displaying a rookie team's number on its bumpers.~Taylor
+
+**Masochist (n):** within the FIRST context, a null descriptive term for a person. ~GeeTwo
+
+**Master of Ceremonies (n):** An individual whose prime objective is to determine different ways to create feedback using a wireless microphone.~Taylor
 
 **Match Schedule (n.) :** The only thing that kept you from winning World Championships~Kevin Leonard
 
@@ -305,13 +329,15 @@ The FIRST Devil's Dictionary
 
 **Match Strategy(n.):** A rock paper scissors show off between 3 teams to chose which strategy to go with. ~jajabinx124
 
-**Match winner (n.):** A breed that had a startling near-extinction event in the year 2015. Only the strongest survived.~Billfred
+**Match winner (n.) A breed that had a startling near:**extinction event in the year 2015. Only the strongest survived.~Billfred
 
 **mDNS (n.) :** The reason it takes you minutes to connect to your 2015 bot but only seconds to connect to your 2014 bot.~Christopher149
 
 **Mecanum wheel (n.):** A wheel for going in every direction if your programmers had just one more week with the drivetrain.~Billfred
 
 **Mecanum Wheel (n.):** Meh' can um A type of wheel rejected by most. Revised 2015 1. Must have wheel for Recycle Rush 2. Key component of Andy Baker's retirement plan~rsisk
+
+**Mechanical (n.):** A wrench-swinging monkey who will never be as cool as a programmer. ~cjl2625
 
 **Mechanical Monkeys (n.):** a group of people on an FRC team with low intelligence that are usually wielding a wrench; a phrase commonly used by programmers~Jalerre
 
@@ -324,6 +350,10 @@ The FIRST Devil's Dictionary
 **Mentor (n.) :** What builds robots that are better than yours~Kevin Leonard
 
 **Mentor-built (adj.):** A term describing a robot that is better than your own, and / or a robot with paint on it.~Chris is me
+
+**Michigan (n.):** 1. Land of a thousand districts. 2. Home of a thousand rookie teams.~Joseph Smith
+
+**Michigan State Championship (n.):** 1.From 2009-2014, the highest concentration of competitive robots outside of IRI. 2. In 2015, a brief detour on the way to the World Championship.~Joseph Smith
 
 **Minibot (n.):** A way to spend thousands of dollars on Tetrix motors for the least impressive demo feature ever.~Billfred
 
@@ -419,7 +449,11 @@ The FIRST Devil's Dictionary
 
 **Real Friends(n.):**people your age that will tolerate you showing them 118's reveal video from Aerial Assist, then argue 1986's was better~Mitchell1714
 
+**Red 2 (n):** The drive station that never connects properly at IRI.~Taylor
+
 **Red Card(n.):** The mother of all punishments on the field. The nightmare of drive teams, and in 2015, a form of execution in playoffs. See Stack Attack~ratdude747
+
+**Red Dots (n):** A method of ensuring a rookie will never again post on www.chiefdelphi.com~Taylor
 
 **Referee (n.):** A volunteer who is expected to start at perfection, and steadily improve thereafter.~GaryVoshol
 
@@ -481,6 +515,8 @@ The FIRST Devil's Dictionary
 
 **Serpentine Draft (n.):** A systematic procedure used to encourage teams to be the 24th best team at the event. ~Caleb Sykes
 
+**Seventh Alliance Captain (n):** The individual who announces the numbers of teams who (1)have already been selected, (2)are not at the current event, or (3)do not actually exist. Not necessarily in that order.~Taylor
+
 **Ship day (n.) :** The day a completed robot was hastily packed into a large wooden box with a random assortment of graphics and numbers painted on the side, then shipped off to a faraway place, See Nationals (n.)~The_ShamWOW88
 
 **Sick day (n.):** A day during build season when one takes off due to illness. On this day, any major project that they had been working on for at least a week will be tested by somebody, often a mentor, who has no idea how you intended it to be used. May result in cracked welds, ruined precision machined surfaces/bores, and/or lost magic smoke. ~ratdude747
@@ -510,6 +546,8 @@ The FIRST Devil's Dictionary
 **Stall Current (n):** quantitative measure of a motor's potential to release magic smoke, either from itself or from other electrically connected things~Richard Wallace
 
 **Stall Torque (n):** quantitative measure of a motor's capability to twist things until they break~Richard Wallace
+
+**Stand Scouting (v):** The action of taking copious notes about the bottom half of an event's teams before covering the papers with a spilled beverage, pizza sauce, and/or chocolate.~Taylor
 
 **Stop Build Day (n):** A day that is 45 days after teams start building their robots and 63 days before all teams have stopped.~Nemo
 
@@ -541,7 +579,11 @@ The FIRST Devil's Dictionary
 
 # U
 
+**UNH District Event (n.):** 1. Home to elimination ronds that never goes off smoothly. 2. In 2015 a human players button falls off getting lodged inside a stack in Finals 2, plus the lights go out halfway through Finals 1. 3. In 2014 was home to the most replays due to one failure (exit gate lexan entering the field).~EmileH
+
 **Unprocessed litter (n.):** All portions of pool noodles thrown on the field in the last match that haven't been put in the trash can yet.~Billfred
+
+**Utah Regional (n.) A regional that some random out:**of-state team decides to attend and wins.~TheBoulderite
 
 # V
 
@@ -560,6 +602,8 @@ The FIRST Devil's Dictionary
 **Watched pot (n.):** the period between placing all the robots on an FRC field and the robots actually obtaining sufficient field connectivity to run a match.~techhelpbb
 
 **Water Game (n):** The universal solvent solution for game hints according to a variety of CD posters.~GeeTwo
+
+**Water Game (n.):** next year's FRC game~Jalerre
 
 **Waterloo Regional (n):** A contest to determine which lucky team gets to hitch a ride with OP and Simbotics.~TheBoulderite
 
