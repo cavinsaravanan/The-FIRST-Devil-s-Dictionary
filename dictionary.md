@@ -323,6 +323,8 @@ The FIRST Devil's Dictionary
 
 **Primary Driver (n):** Student driver that typically controls the movement of the robot. May or may not actually know what the buttons do.~BL0X3R
 
+**Programming Issue (n.):** A term used by the mechanical team to explain any problem they don't yet understand.~UnaffiliatedOpinion
+
 # Q
 **Question Box (n.):** Obscure square of tape on the floor, often but not always near the scoring table. Used to ~~yell at~~discuss a call with the Head Referee.~EricH
 
