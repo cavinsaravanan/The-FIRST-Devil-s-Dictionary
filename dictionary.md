@@ -123,7 +123,7 @@ The FIRST Devil's Dictionary
 
 **chute door (n.):** Yes, Chute Door. See 2015 Q163~efoote868
 
-**CIM (n), also called CIM motor:** the most robust container for blue smoke allowed in FRC.~GeeTwo
+**CIM (n):** also called CIM motor the most robust container for blue smoke allowed in FRC.~GeeTwo
 
 **Cleaning the shop (v):** hazing~Mrcope9
 
