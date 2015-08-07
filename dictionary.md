@@ -179,7 +179,7 @@ The FIRST Devil's Dictionary
 
 **Drivers meeting (n):** A collection of teenagers who lead others to believe that they may not even know which FRC game is being played as they know so few rules the first day of a competition.~Mrcope9
 
-**Duct tape (n.) A previously:**banned substance so fatal to a robot's chances of getting picked it might as well still be.~Billfred
+**Duct tape (n.):** A previouslybanned substance so fatal to a robot's chances of getting picked it might as well still be.~Billfred
 
 # E
 
