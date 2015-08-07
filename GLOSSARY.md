@@ -210,7 +210,7 @@ Yes, Chute Door. See 2015 Q163~efoote868
 
 ## CIM 
 
-the most robust container for blue smoke allowed in FRC.~GeeTwo
+also called CIM motor the most robust container for blue smoke allowed in FRC.~GeeTwo
 
 ## Cleaning the shop 
 
