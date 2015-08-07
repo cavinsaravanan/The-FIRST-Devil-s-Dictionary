@@ -78,7 +78,7 @@ Happened once... if you squint your eyes and ignore the programmer kicking it a 
 
 ## Andy Baker 
 
-> Chuck Norris~rsisk
+Chuck Norris~rsisk
 
 ## Arena 
 
