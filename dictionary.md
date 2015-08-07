@@ -457,6 +457,6 @@ The FIRST Devil's Dictionary
 # X
 
 # Y
-**YMCA (n.):** A song frequently played at FIRST events, especially in the common occurrence of a FMS crash.~Insanity000
+##**YMCA (n.):** A song frequently played at FIRST events, especially in the common occurrence of a FMS crash.~Insanity000
 
 # Z
