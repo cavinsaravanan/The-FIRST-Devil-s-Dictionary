@@ -396,7 +396,7 @@ The FIRST Devil's Dictionary
 
 **Sophomore (n.):** A freshman who came back and is now in charge of making said sharp corners.~EricH
 
-**Stack Attack(n.):** 1. The 2003 FRC game that is among the top three worst games according to most. 2. In 2015, a large scale game of dominoes. A common cause of death in playoffs. See also Darwin Awards.~ratdude747
+**Stack Attack (n.):** 1. The 2003 FRC game that is among the top three worst games according to most. 2. In 2015, a large scale game of dominoes. A common cause of death in playoffs. See also Darwin Awards.~ratdude747
 
 **Stall Current (n):** quantitative measure of a motor's potential to release magic smoke, either from itself or from other electrically connected things~Richard Wallace
 
