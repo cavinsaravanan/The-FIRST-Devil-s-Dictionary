@@ -1130,7 +1130,7 @@ The action of taking copious notes about the bottom half of an event's teams bef
 
 ## Utah Regional 
 
-of-state team decides to attend and wins.~TheBoulderite
+A regional that some random out-of-state team decides to attend and wins.~TheBoulderite
 
 ## Water Game 
 
