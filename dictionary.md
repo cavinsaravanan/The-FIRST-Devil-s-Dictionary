@@ -207,7 +207,7 @@ The FIRST Devil's Dictionary
 
 **Free time (n.):** "Undefined"~EricH
 
-**Freshman (n.):** Team go: fer and filer of all sharp corners.~EricH
+**Freshman (n.):** Team go-fer and filer of all sharp corners.~EricH
 
 **Friends(n.):** people your age that will tolerate you showing them 118's reveal video from Aerial Assist for the 15th time~Mitchell1714
 
