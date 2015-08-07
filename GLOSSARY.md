@@ -6,8 +6,7 @@ The tool that only comes into use once a year when the weight limit is breached~
 
 ## 1/8" Drill Bit 
 
-1. The label on the perpetually vacant slot in the drill bit set. 
-2. The bit that you use for everything. 3. You bought ten at the start of the season, but they have all mysteriously disappeared by the week before bag.~Joseph Smith
+1. The label on the perpetually vacant slot in the drill bit set. 2. The bit that you use for everything. 3. You bought ten at the start of the season, but they have all mysteriously disappeared by the week before bag.~Joseph Smith
 
 ## 2nd Year Veteran 
 
@@ -404,8 +403,7 @@ A competitive event and the bane of world champions. See OP Robotics.~TheBoulder
 
 ## Inspection 
 
-1. The first time that many rookie teams learn the robot rules. 
-2. A process during which teams are asked to put electrical tape over sharp edges of their robot, which will fall off shortly into the first match. 3. Something your alliance partner has not passed.~Joseph Smith
+1. The first time that many rookie teams learn the robot rules. 2. A process during which teams are asked to put electrical tape over sharp edges of their robot, which will fall off shortly into the first match. 3. Something your alliance partner has not passed.~Joseph Smith
 
 ## Intake
 
@@ -433,8 +431,7 @@ the thing that distinguishes the good teams from the bad teams in the eyes of sc
 
 ## Lunacy 
 
-1. A benchmark used when talking about how bad the current year's game is.
-2. The game that must not be named. See Lord Voldemort~Caleb Sykes
+1. A benchmark used when talking about how bad the current year's game is. 2. The game that must not be named. See Lord Voldemort~Caleb Sykes
 
 ## Magic Smoke 
 
@@ -526,13 +523,11 @@ A fairy tale told to help keep rookies going for a few more hours.~GeeTwo
 
 ## OP 
 
-1. Overpowered.
-2. A captain who only idiots decline at alliance selection.~Billfred
+1. Overpowered. 2. A captain who only idiots decline at alliance selection.~Billfred
 
 ## OP
 
-1. An FRC team rumored to have never lost a Regional.
-2. A dominant robot creating force that makes you smack your forehead at the end of each build season and ask yourself why you didn't just do what they did.~Ginger Power
+1. An FRC team rumored to have never lost a Regional. 2. A dominant robot creating force that makes you smack your forehead at the end of each build season and ask yourself why you didn't just do what they did.~Ginger Power
 
 ## OP
 
@@ -588,8 +583,7 @@ how to make your low-seed alliance competitive~evanperryg
 
 ## Pool Noodle
 
-1. That thing Human Players throw (see Recycle Rush) to gain extra points 
-2. That thing I used to carry my team when the robot was not present on the field during competition~Ginger Bread
+1. That thing Human Players throw (see Recycle Rush) to gain extra points 2. That thing I used to carry my team when the robot was not present on the field during competition~Ginger Bread
 
 ## Powdercoated 
 
@@ -665,8 +659,7 @@ a mythical object that programmers are always hearing about but never get to see
 
 ## Robot Manual 
 
-1. A book we all say we've read, but few actually have.
-2. A glass house which some people claim is too opaque, and so throw stones in an attempt to bend.~pmangels17
+1. A book we all say we've read, but few actually have. 2. A glass house which some people claim is too opaque, and so throw stones in an attempt to bend.~pmangels17
 
 ## Robot Troubleshooting
 
@@ -702,8 +695,7 @@ Ensuring you will win your division by ensuring you will never win Einstein.~Bil
 
 ## Scouting 
 
-1. Distraction for underclassmen and slackers on the teams that don't give a flip about winning. 
-2. Figuring out who's full of it.~ghostmachine360
+1. Distraction for underclassmen and slackers on the teams that don't give a flip about winning. 2. Figuring out who's full of it.~ghostmachine360
 
 ## Secondary Driver 
 
@@ -747,8 +739,7 @@ A freshman who came back and is now in charge of making said sharp corners.~Eric
 
 ## Stack Attack
 
-1. The 2003 FRC game that is among the top three worst games according to most.
-2. In 2015, a large scale game of dominoes. A common cause of death in playoffs. See also Darwin Awards.~ratdude747
+1. The 2003 FRC game that is among the top three worst games according to most.2. In 2015, a large scale game of dominoes. A common cause of death in playoffs. See also Darwin Awards.~ratdude747
 
 ## Stall Current 
 
