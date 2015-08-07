@@ -583,7 +583,7 @@ The FIRST Devil's Dictionary
 
 **Unprocessed litter (n.):** All portions of pool noodles thrown on the field in the last match that haven't been put in the trash can yet.~Billfred
 
-**Utah Regional (n.) A regional that some random out:**of-state team decides to attend and wins.~TheBoulderite
+**Utah Regional (n.):** A regional that some random out-of-state team decides to attend and wins.~TheBoulderite
 
 # V
 
