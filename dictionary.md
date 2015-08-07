@@ -343,7 +343,7 @@ The FIRST Devil's Dictionary
 
 **Pedestal (n.):** A container to permanently hold game objects. See Aerial Assist~Henrique Schmit
 
-**Pick Me Maybe (n.):** The only song by Carly Rae Jepsen team 399.~Christopher149
+**Pick Me Maybe (n.):** The only song by ~~Carly Rae Jepsen~~ team 399.~Christopher149
 
 **Picklist (n.) :**Hastily written scribblings from 4 AM that are incomprehensible when it matters most, ~Kevin Leonard
 
