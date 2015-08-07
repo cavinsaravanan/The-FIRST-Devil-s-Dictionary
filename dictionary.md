@@ -203,11 +203,11 @@ The FIRST Devil's Dictionary
 
 **FRC (n.):** 1. The greatest thing since sliced bread. 2. An addiction.~TheBoulderite
 
-**FRC (verb); an acronym standing for Forceful Robot Collisions. Note:** Many consider this synonymous with the 2014 game Ariel Assist.~Munchskull
+**FRC (verb):** an acronym standing for Forceful Robot Collisions. Note: Many consider this synonymous with the 2014 game Ariel Assist.~Munchskull
 
 **Free time (n.):** "Undefined"~EricH
 
-**Freshman (n.) Team go:**fer and filer of all sharp corners.~EricH
+**Freshman (n.):** Team go: fer and filer of all sharp corners.~EricH
 
 **Friends(n.):** people your age that will tolerate you showing them 118's reveal video from Aerial Assist for the 15th time~Mitchell1714
 
