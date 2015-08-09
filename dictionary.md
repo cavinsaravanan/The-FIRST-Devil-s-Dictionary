@@ -2,7 +2,6 @@ The FIRST Devil's Dictionary
 ========
 [Cheif Delphi Thread](http://www.chiefdelphi.com/forums/showthread.php?t=137915)
 
-
 # #
 
 **1" Drill Bit (n.):** The tool that only comes into use once a year when the weight limit is breached~SeanFitz
@@ -77,6 +76,8 @@ The FIRST Devil's Dictionary
 
 # B
 
+**Bag n Tag (n):** We used to shut up the robots in a dark box and ship them away from home. Now we just suffocate them.~GaryVoshol
+
 **Bass (n.):** An anomaly that causes speakers to vibrate the entire room they are in. See Closing Ceremonies.~TheBoulderite
 
 **Battery (n):** An energy storing device that features black and red wire handles.~Taylor
@@ -94,6 +95,8 @@ The FIRST Devil's Dictionary
 **Blue banner (n.):** An indisputable symbol of excellence in competition or onetime possession of $300.~Billfred
 
 **Bobcats(n.):** The team that has gone to Einstein 435 years in a row*, FRC 177~Mitchell1714
+
+**Brave Little Toaster Sandwich (n):** Stories about hapless teams/robots where the bad news is buffered by the less bad news. Also see "Good News/Bad News."~RoboMom
 
 **Break the game (adj.):** Describes a rule modification made just prior to competition beginning, because the GDC didn't see it coming. Also see He Made Me Do It.~GaryVoshol
 
@@ -131,6 +134,8 @@ The FIRST Devil's Dictionary
 
 **Chiefdelphi (n):** An internet bulletin board site where users can insult others' creations, or complain how things aren't how they used to be.~Taylor
 
+**Chokehold Strategy (n.):** Oh man, I have no idea. Although I'll probably never need to know. Ask Karthik.~Basel A
+
 **Christmas Tree (n.):** The only festive phrase that will make FTAs universally frustrated. See Field Fault.~Aaron.Graeve
 
 **Christmas Tree(n.):** A bright and colorful cue from FMS for the DJ to play the chicken dance, YMCA, cupid shuffle, or the hokey pokey. Also a cue for the FTA(s), FTAA(s), and Scorekeeper(s) to suddenly appear as if they really, really, REALLY dislike said music, usually in form of a scowl.~ratdude747
@@ -138,6 +143,8 @@ The FIRST Devil's Dictionary
 **Chute door (n.):** Yes, Chute Door. See 2015 Q163~efoote868
 
 **CIM (n):** also called CIM motor the most robust container for blue smoke allowed in FRC.~GeeTwo
+
+**Cindy and Allen (n.) :** Awesome. ~Andrew Schreiber
 
 **Cleaning the shop (v):** hazing~Mrcope9
 
@@ -164,6 +171,8 @@ The FIRST Devil's Dictionary
 **Dance music (n.):** A method of torture so heinous that the CIA outlawed its use in interrogation.~ghostmachine360
 
 **Dave Lavery (n.):** A male individual, known for carrying red herrings, wearing shirts reminiscent of the 50th state, eating large amounts of fried plastic, and having vastly superior body-supporting limbs to Amanda Morrison.~thatprogrammer
+
+**Deadheading (v). The practice of catching a one:**-day volunteer trying to enter the volunteer eating area using their badge on days they are not volunteering.~RoboMom
 
 **Dean Kamen (n.) :** our fearless, denim-clad leader and an inspiration to us all.~hectorcastillo
 
@@ -261,6 +270,8 @@ The FIRST Devil's Dictionary
 
 **He Made Me Do It (adj.):** Describes a Get Out Of Jail Free rule, usually invoked to avoid a Red Card, but sometimes just a foul. Not always present in all rule sets.~GaryVoshol
 
+**Head Mentor (n):** The only form of rational judgment found on most teams.~lark95
+
 **Heat Gun(n.):** Your build season replacement for a microwave.~jajabinx124
 
 **High Rollers(n.):** the only team to have a turret in 2013, FRC 987~Mitchell1714
@@ -289,6 +300,10 @@ The FIRST Devil's Dictionary
 
 **John-Neun V (n.) :** Someone that at some point everyone was.~Billfred
 
+**Judge Advisor (n.) :** Cat herder. See also Cindy and Allen~Andrew Schreiber
+
+**Judge's Assistant (n.) :** The person who really runs the judge's room.~Andrew Schreiber
+
 **Junior (n.):** A sophomore who came back to lead the current crop of sophomores.~EricH
 
 # K
@@ -310,6 +325,8 @@ The FIRST Devil's Dictionary
 **Lexan (n.):** A very strong, clear material. Despite it's high costs, it is claimed to be in many pits at competitions; if needed a neighboring pit will have a scrap of "such" for you to use. See acrylic.~ratdude747
 
 **Lone Star Regional (n):** Who are The Robonauts taking to Worlds?~Mrcope9
+
+**Loop (n.):** See Loop~rsisk
 
 **Lunacy (n.):** 1. A benchmark used when talking about how bad the current year's game is. 2. The game that must not be named. See Lord Voldemort~Caleb Sykes
 
@@ -357,6 +374,8 @@ The FIRST Devil's Dictionary
 
 **Minibot (n.):** A way to spend thousands of dollars on Tetrix motors for the least impressive demo feature ever.~Billfred
 
+**Money (n):** 1.The paper substance that is vital to any teams success 2. usually following the word get (get money) 3. The reason there are sponsors (see sponsors) 4. something we all need more of~Ginger Bread
+
 **Mountain Dew (n.) :** Fuel that powers the programmers. See Pizza.~Beaker
 
 # N
@@ -368,6 +387,8 @@ The FIRST Devil's Dictionary
 **Nebraska (n.):** A mysterious and uncharted land.~TheBoulderite
 
 **Next year (n.) :** the theoretical point at which your team will achieve a goal which you have thus far fallen short of. ~hectorcastillo
+
+**Next Year's Game (n.):** Always a water game until the first hint comes out (for the smart ones) or the game announcement (for the true believers) where a logical game is announced, and the water game is postponed until next year's game. see~BenGuy
 
 **Noodle Agreement (n.):** The backroom deal made over a bowl of ramen to strategically remove any possible strategic thinking from an FRC game through rule updates and FAQ responses.~marshall
 
@@ -413,6 +434,8 @@ The FIRST Devil's Dictionary
 
 **Plowie (n):** A mythical, cartoonish creation resembling a Reveal Video favorite, Dozer, whose mere mention raises an enraged Dave Lavery from his slumber for a brief episode of spittle-flying and general humbuggery.~Taylor
 
+**PNW District (n.):** The district that has the best video quality in FRC.~MikLast
+
 **Pool Noodle (n):** how to make your low-seed alliance competitive~evanperryg
 
 **Pool Noodle(n):** 1. That thing Human Players throw (see Recycle Rush) to gain extra points 2. That thing I used to carry my team when the robot was not present on the field during competition~Ginger Bread
@@ -424,6 +447,8 @@ The FIRST Devil's Dictionary
 **Powerhouse (adj.):** An adjective assigned with any team that is better than yours.~TheBoulderite
 
 **Practice Field (n):** A facility at an FIRST competition which is only available when your team is scheduled to be in the queue or a match.~GeeTwo
+
+**Practice Matches (n):** A magical time at a regional, before the real competition starts, that many have heard of, but few have actually experienced.~lark95
 
 **Primary Driver (n):** Student driver that typically controls the movement of the robot. May or may not actually know what the buttons do.~BL0X3R
 
@@ -533,6 +558,8 @@ The FIRST Devil's Dictionary
 
 **SmartDashbord (n.):** A convenient place to put a lot of information that the drivers will never look at.~Caleb Sykes
 
+**Snow Day (n.):** The reason the New England District can't have nice things. The Texas teams have no such record of problems with losing a day of work, for the Michigan and New England Districts, it is great because of no school, however detrimental to the robot building effort... Especially when snow falls too much on bag and tag day...   ~BenGuy
+
 **Snow Day (n.):** The reason the New England District can't have nice things.~Aidan Cox
 
 **Software Problem (n.):** when the robot doesn't work properly~Jalerre
@@ -575,6 +602,8 @@ The FIRST Devil's Dictionary
 
 **The Cheesy Poofs(n.):** also the best team in the world, FRC 254, trades this spot every other year to Simbotics~Mitchell1714
 
+**The Macy's Day Parade, aka, the Horror Show, aka, Load in (n):**. The 45 minute parade on Day 1 of an event where teams with no sightlines rush to try to wheel/carry all manner of dangerous, precariously balanced & protruding objects into the pits. See Safety.~RoboMom
+
 **Theory (n.) :** A mythical place where all robot designs work.~MechEng83
 
 # U
@@ -594,6 +623,8 @@ The FIRST Devil's Dictionary
 **Victor (n):** An electronic device used sacrificially to prevent damage to a Fuse. Often also used to collect metal swarf. See also Jaguar.~DonRotolo
 
 **Vision Processing (n.):** the thing programmers say they're going to do every year but never have time for ~Jalerre
+
+**Volunteer Coordinator (n):** The person at an event who is expected to solve most problems which don't involve objects that light up or plug in. The time commitment for this volunteer position starts 6 months before the event and involves too many hours of "training" calls, meetings, begging and making wild guesses for inventory.~RoboMom
 
 # W
 
@@ -625,5 +656,6 @@ The FIRST Devil's Dictionary
 
 # Z
 
-**Zip tie (n.):** The standard fastener used on FRC robots.~randantor
+**Zamboni(ed)(v):** An especially entertaining entry to the field by an emcee or VIP. Also see Blair, Woodie, Boston Regional.~RoboMom
 
+**Zip tie (n.):** The standard fastener used on FRC robots.~randantor
