@@ -1136,3 +1136,71 @@ A regional that some random out-of-state team decides to attend and wins.~TheBou
 
 next year's FRC game~Jalerre
 
+## Bag n Tag 
+
+We used to shut up the robots in a dark box and ship them away from home. Now we just suffocate them.~GaryVoshol
+
+## Brave Little Toaster Sandwich 
+
+Stories about hapless teams/robots where the bad news is buffered by the less bad news. Also see "Good News/Bad News."~RoboMom
+
+## Chokehold Strategy 
+
+Oh man, I have no idea. Although I'll probably never need to know. Ask Karthik.~Basel A
+
+## Cindy and Allen 
+
+Awesome. ~Andrew Schreiber
+
+## Deadheading 
+
+-day volunteer trying to enter the volunteer eating area using their badge on days they are not volunteering.~RoboMom
+
+## Head Mentor 
+
+The only form of rational judgment found on most teams.~lark95
+
+## Judge Advisor 
+
+Cat herder. See also Cindy and Allen~Andrew Schreiber
+
+## Judge's Assistant 
+
+The person who really runs the judge's room.~Andrew Schreiber
+
+## Loop 
+
+See Loop~rsisk
+
+## Money 
+
+1.The paper substance that is vital to any teams success 2. usually following the word get (get money) 3. The reason there are sponsors (see sponsors) 4. something we all need more of~Ginger Bread
+
+## Next Year's Game 
+
+Always a water game until the first hint comes out (for the smart ones) or the game announcement (for the true believers) where a logical game is announced, and the water game is postponed until next year's game. see~BenGuy
+
+## PNW District 
+
+The district that has the best video quality in FRC.~MikLast
+
+## Practice Matches 
+
+A magical time at a regional, before the real competition starts, that many have heard of, but few have actually experienced.~lark95
+
+## Snow Day 
+
+The reason the New England District can't have nice things. The Texas teams have no such record of problems with losing a day of work, for the Michigan and New England Districts, it is great because of no school, however detrimental to the robot building effort... Especially when snow falls too much on bag and tag day...   ~BenGuy
+
+## The Macy's Day Parade, aka, the Horror Show, aka, Load in 
+
+. The 45 minute parade on Day 1 of an event where teams with no sightlines rush to try to wheel/carry all manner of dangerous, precariously balanced & protruding objects into the pits. See Safety.~RoboMom
+
+## Volunteer Coordinator 
+
+The person at an event who is expected to solve most problems which don't involve objects that light up or plug in. The time commitment for this volunteer position starts 6 months before the event and involves too many hours of "training" calls, meetings, begging and making wild guesses for inventory.~RoboMom
+
+## Zamboni
+
+An especially entertaining entry to the field by an emcee or VIP. Also see Blair, Woodie, Boston Regional.~RoboMom
+
