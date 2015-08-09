@@ -1192,9 +1192,9 @@ A magical time at a regional, before the real competition starts, that many have
 
 The reason the New England District can't have nice things. The Texas teams have no such record of problems with losing a day of work, for the Michigan and New England Districts, it is great because of no school, however detrimental to the robot building effort... Especially when snow falls too much on bag and tag day...   ~BenGuy
 
-## The Macy's Day Parade, aka, the Horror Show, aka, Load in 
+## The Macy's Day Parade
 
-. The 45 minute parade on Day 1 of an event where teams with no sightlines rush to try to wheel/carry all manner of dangerous, precariously balanced & protruding objects into the pits. See Safety.~RoboMom
+aka, the Horror Show, aka, Load in. The 45 minute parade on Day 1 of an event where teams with no sightlines rush to try to wheel/carry all manner of dangerous, precariously balanced & protruding objects into the pits. See Safety.~RoboMom
 
 ## Volunteer Coordinator 
 
