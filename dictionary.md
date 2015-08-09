@@ -602,7 +602,7 @@ The FIRST Devil's Dictionary
 
 **The Cheesy Poofs(n.):** also the best team in the world, FRC 254, trades this spot every other year to Simbotics~Mitchell1714
 
-**The Macy's Day Parade, aka, the Horror Show, aka, Load in (n):**. The 45 minute parade on Day 1 of an event where teams with no sightlines rush to try to wheel/carry all manner of dangerous, precariously balanced & protruding objects into the pits. See Safety.~RoboMom
+**The Macy's Day Parade(n):** aka, the Horror Show, aka, Load in. The 45 minute parade on Day 1 of an event where teams with no sightlines rush to try to wheel/carry all manner of dangerous, precariously balanced & protruding objects into the pits. See Safety.~RoboMom
 
 **Theory (n.) :** A mythical place where all robot designs work.~MechEng83
 
