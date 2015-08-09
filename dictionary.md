@@ -346,7 +346,7 @@ The FIRST Devil's Dictionary
 
 **Match Strategy(n.):** A rock paper scissors show off between 3 teams to chose which strategy to go with. ~jajabinx124
 
-**Match winner (n.) A breed that had a startling near:**extinction event in the year 2015. Only the strongest survived.~Billfred
+**Match winner (n.):** A breed that had a startling near-extinction event in the year 2015. Only the strongest survived.~Billfred
 
 **mDNS (n.) :** The reason it takes you minutes to connect to your 2015 bot but only seconds to connect to your 2014 bot.~Christopher149
 
