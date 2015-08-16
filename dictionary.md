@@ -36,6 +36,8 @@ The FIRST Devil's Dictionary
 
 **2015(n.):** a game based off of opr~Mitchell1714
 
+**"I didn't do it!" (phrase):** Statement shouted by everybody NOT involved in breaking something this time, and sometimes by whoever did it.~EricH
+
 **#2Champs (n.) :** The end of days, see also Championsplit~Kevin Leonard
 
 # A
@@ -65,6 +67,8 @@ The FIRST Devil's Dictionary
 **Ariel Assist (n.):** Let's go save the mermaid before Ursula gets her!~Caleb Sykes
 
 **Arms race (n.):** the era from 1947 to 2015 in which FRC was in a state of tension as teams began to stockpile nuclear weapons, in fear that the other alliance may declare a "can war" on them. See 1678.~Abhishek R
+
+**Arms race (n.):** the era from 1947 to 2015 in which FRC was in a state of tension as teams began to stockpile nuclear weapons, in fear that the other alliance may declare a "can war" on them. See 1678.~Citrus Dad
 
 **Autonomous Mode (n):** A moment of silence observed prior to every Week 1 or Week 2 match.~Dan Petrovic
 
@@ -101,6 +105,8 @@ The FIRST Devil's Dictionary
 **Break the game (adj.):** Describes a rule modification made just prior to competition beginning, because the GDC didn't see it coming. Also see He Made Me Do It.~GaryVoshol
 
 **Broken (n):** 1. The state of a robot after programmers, drivers, or aerial assist have had their way with it.~BL0X3R
+
+**Bumper (n.) :** A component (sometimes) required on a robot to pass inspection; covered with special fabric and team numbers to a specification that many teams have a hard time following.~TedG
 
 **Bumper (n.):** An assembly of wood, fabric, and pool noodles that is more challenging to build than a 120 pound robot~NorthernTaco
 
@@ -170,6 +176,10 @@ The FIRST Devil's Dictionary
 
 **Dance music (n.):** A method of torture so heinous that the CIA outlawed its use in interrogation.~ghostmachine360
 
+**Data analysis (n.):** Carefully crafted conclusions drawn from carelessly collected data.~George1902
+
+**Data analysis (n.):** Carefully crafted conclusions drawn from carelessly collected data.~jajabinx124
+
 **Dave Lavery (n.):** A male individual, known for carrying red herrings, wearing shirts reminiscent of the 50th state, eating large amounts of fried plastic, and having vastly superior body-supporting limbs to Amanda Morrison.~thatprogrammer
 
 **Deadheading (v). The practice of catching a one:**-day volunteer trying to enter the volunteer eating area using their badge on days they are not volunteering.~RoboMom
@@ -189,6 +199,8 @@ The FIRST Devil's Dictionary
 **Deodorant (n.):** A hygiene item most well-adjusted human beings use to allow for breathable air in their general vicinity for other people.~ghostmachine360
 
 **Deploying (v.):** what programmers are doing when they aren't coding; see Break, Free Time~Jalerre
+
+**District Points System (n.):** 1. The system by which teams are picked from a hat and invited to district championship 2. The reason we should really design to win awards not matches~piersklein
 
 **DPR (Defensive Power Rating) (n.):** (1) 2015 Every team had the number but shouldn't have it. (2) <= 2014 Every team had the number but it was never looked at or known how it was calculated.~BenGuy
 
@@ -211,6 +223,8 @@ The FIRST Devil's Dictionary
 **Echo Effect (n.):** A type of modification to sound of any kind that creates a repeat of any sound entering the microphone. See 2015 Einstein Quarterfinals.~TheBoulderite
 
 **Einstein (n) :** Straight madness~Kevin Leonard
+
+**Electrical (n.):** Programming's scapegoat. Often also programming.~EricH
 
 **Endgame (n.):** A component of the game that isn't worth very much until powerhouse teams start completing them in faster and faster times. See also~artK
 
@@ -290,6 +304,8 @@ The FIRST Devil's Dictionary
 
 **Inspection (v.):** Activity that occurs at the latest time possible on Thursday. Sometimes leads to cutting the robot in half to either cut weight or size.~Michael Hill
 
+**Inspector Training (n):** 1.A service provided by the first team inspected at a regional. 2. Punishment for daring to be the first team inspected at a regional. 3. Situation easily remedied by finding Al~BJT
+
 **Intake(n.):** spinning wheels on the front of your robot~Mitchell1714
 
 # J
@@ -348,6 +364,8 @@ The FIRST Devil's Dictionary
 
 **Match winner (n.):** A breed that had a startling near-extinction event in the year 2015. Only the strongest survived.~Billfred
 
+**Mating (v.):** A term used to describe a relationship I will add between the frontal flat planar surface of my palm with your curved facial face when you make this joke for the hundredth time while I'm stuck in the vortex with you. See Vortex.~Newo
+
 **mDNS (n.) :** The reason it takes you minutes to connect to your 2015 bot but only seconds to connect to your 2014 bot.~Christopher149
 
 **Mecanum wheel (n.):** A wheel for going in every direction if your programmers had just one more week with the drivetrain.~Billfred
@@ -355,6 +373,8 @@ The FIRST Devil's Dictionary
 **Mecanum Wheel (n.):** Meh' can um A type of wheel rejected by most. Revised 2015 1. Must have wheel for Recycle Rush 2. Key component of Andy Baker's retirement plan~rsisk
 
 **Mechanical (n.):** A wrench-swinging monkey who will never be as cool as a programmer. ~cjl2625
+
+**Mechanical (N.):** People who blame programming for things they broke~nate12345678
 
 **Mechanical Monkeys (n.):** a group of people on an FRC team with low intelligence that are usually wielding a wrench; a phrase commonly used by programmers~Jalerre
 
@@ -452,6 +472,8 @@ The FIRST Devil's Dictionary
 
 **Primary Driver (n):** Student driver that typically controls the movement of the robot. May or may not actually know what the buttons do.~BL0X3R
 
+**Programming (N.):** The universal scapegoat~nate12345678
+
 **Programming Issue (n.):** A term used by the mechanical team to explain any problem they don't yet understand.~UnaffiliatedOpinion
 
 # Q
@@ -526,11 +548,17 @@ The FIRST Devil's Dictionary
 
 **Sandstorm (n):** A song played by the DJ to torture the crowd. Closely associated with the Chicken Dance. ~TheBoulderite
 
+**Scapegoat (n.):** Team member or group that is blamed for whatever failed this time, regardless of 1) presence anywhere near failure, 2) actual culpability. Sometimes referred to as escapegoat if everybody else is too busy getting out of there.~EricH
+
 **Scorch and burn(v.):** Official strategy of 1678, very effective~Mitchell1714
 
 **Scorched earth (adj.):** Ensuring you will win your division by ensuring you will never win Einstein.~Billfred
 
 **Scouting (v.):** 1. Distraction for underclassmen and slackers on the teams that don't give a flip about winning. 2. Figuring out who's full of it.~ghostmachine360
+
+**Scouting Data Entry (n.):** The process by which accurate scouting data is inputted into a database, never to be seen again~Kevin Leonard
+
+**Scouting Meeting (n.):** gathering of team mates with the purpose to trash talk other teams with no regard to actual data. If a team is considered a "powerhouse", these discussions take place out of the venue behind closed doors or over Google hangouts.~Marcow
 
 **Secondary Driver (n):** Student driver that typically controls the movement of a manipulator or non-drive subsystem. Claims to know the buttons better than the primary driver, but most likely doesn't.~BL0X3R
 
@@ -594,6 +622,8 @@ The FIRST Devil's Dictionary
 
 **Teh Chezy Pofs(n.):** An FRC team known to set the blue (banner) standard year in and year out. See also Simbotics~Ginger Power
 
+**Test Ban Treaty (n.):** A negotiated end to the can war after the consumption of large quantities of cheesecake, that saved the lives of many freshmen. See IRI Rules~Citrus Dad
+
 **Tether (n.):** An Ethernet cable noted for its ability to tangle itself when left unsupervised.~randantor
 
 **The Best Team in FRC(n.):** the team you are on~Mitchell1714
@@ -601,6 +631,8 @@ The FIRST Devil's Dictionary
 **The Blue Alliance (n):** A website containing much of the resources necessary for scouting, watching, and record keeping. Most often visited more than traditional social media from January-April.~Mrcope9
 
 **The Cheesy Poofs(n.):** also the best team in the world, FRC 254, trades this spot every other year to Simbotics~Mitchell1714
+
+**The District System (n.):** A universally better system for qualifying teams for the championship event that will never reach the states that need it most~Kevin Leonard
 
 **The Macy's Day Parade(n):** aka, the Horror Show, aka, Load in. The 45 minute parade on Day 1 of an event where teams with no sightlines rush to try to wheel/carry all manner of dangerous, precariously balanced & protruding objects into the pits. See Safety.~RoboMom
 
@@ -626,6 +658,8 @@ The FIRST Devil's Dictionary
 
 **Volunteer Coordinator (n):** The person at an event who is expected to solve most problems which don't involve objects that light up or plug in. The time commitment for this volunteer position starts 6 months before the event and involves too many hours of "training" calls, meetings, begging and making wild guesses for inventory.~RoboMom
 
+**Vortex (n.):** A large circle of desks assembled on day one of build season to house the CAD and code teams. Synonymous with "black hole", both in inward attractive force and in relativistic time dilation; "Thou who enter the vortex shall not emerge from its depths until the temporal substance which fuels it has evaporated after 6-9 weeks."~Newo
+
 # W
 
 **Wall (N.):** An inanimate object commonly used to stop robots with faulty autonomous code~carpedav000
@@ -645,6 +679,8 @@ The FIRST Devil's Dictionary
 **Weight Limit (n.):** A mythical number that, invariably, your team will end up slightly above.~SeanFitz
 
 **West Coast Drive (n.):** Something every new CAD student will try to design without understanding the advantages of one, simply because powerhouse teams use them. ~artK
+
+**Wildcards (n.):** A conspiracy to get more Canadian and Californian teams to qualify for Championships each year~Kevin Leonard
 
 **Working Sensor Software (n):** A product delivered by the program team which ensures that the sensor will be mechanically damaged beyond repair, and possibly replacement, in the immediate future.~GeeTwo
 
