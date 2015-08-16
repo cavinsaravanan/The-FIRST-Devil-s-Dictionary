@@ -758,7 +758,7 @@ A person or team who doesn't know what they're getting into in FRC because it's 
 
 ## Safety Captain 
 
-- The role given to a non-drive team member in the pit. Usually given to someone thrown under the bus, but gets to wear a badge of honor. Generally has no authority or knowledge of safety. See Safety.~Michael Hill
+-The role given to a non-drive team member in the pit. Usually given to someone thrown under the bus, but gets to wear a badge of honor. Generally has no authority or knowledge of safety. See Safety.~Michael Hill
 
 ## Safety Glasses 
 
@@ -1203,4 +1203,77 @@ The person at an event who is expected to solve most problems which don't involv
 ## Zamboni
 
 An especially entertaining entry to the field by an emcee or VIP. Also see Blair, Woodie, Boston Regional.~RoboMom
+
+## "I didn't do it!" 
+
+Statement shouted by everybody NOT involved in breaking something this time, and sometimes by whoever did it.~EricH
+
+## Arms race 
+
+the era from 1947 to 2015 in which FRC was in a state of tension as teams began to stockpile nuclear weapons, in fear that the other alliance may declare a "can war" on them. See 1678.~Citrus Dad
+
+## Bumper 
+
+A component (sometimes) required on a robot to pass inspection; covered with special fabric and team numbers to a specification that many teams have a hard time following.~TedG
+
+## Data analysis 
+
+Carefully crafted conclusions drawn from carelessly collected data.~George1902
+
+## Data analysis 
+
+Carefully crafted conclusions drawn from carelessly collected data.~jajabinx124
+
+## District Points System 
+
+1.The system by which teams are picked from a hat and invited to district championship 2. The reason we should really design to win awards not matches~piersklein
+
+## Electrical 
+
+Programming's scapegoat. Often also programming.~EricH
+
+## Inspector Training 
+
+1.A service provided by the first team inspected at a regional. 2. Punishment for daring to be the first team inspected at a regional. 3. Situation easily remedied by finding Al~BJT
+
+## Mating 
+
+A term used to describe a relationship I will add between the frontal flat planar surface of my palm with your curved facial face when you make this joke for the hundredth time while I'm stuck in the vortex with you. See Vortex.~Newo
+
+## Mechanical 
+
+People who blame programming for things they broke~nate12345678
+
+## Programming 
+
+The universal scapegoat~nate12345678
+
+## Scapegoat 
+
+Team member or group that is blamed for whatever failed this time, regardless of 1) presence anywhere near failure, 2) actual culpability. Sometimes referred to as escapegoat if everybody else is too busy getting out of there.~EricH
+
+## Scouting Data Entry 
+
+The process by which accurate scouting data is inputted into a database, never to be seen again~Kevin Leonard
+
+## Scouting Meeting 
+
+gathering of team mates with the purpose to trash talk other teams with no regard to actual data. If a team is considered a "powerhouse", these discussions take place out of the venue behind closed doors or over Google hangouts.~Marcow
+
+## Test Ban Treaty 
+
+A negotiated end to the can war after the consumption of large quantities of cheesecake, that saved the lives of many freshmen. See IRI Rules~Citrus Dad
+
+## The District System 
+
+A universally better system for qualifying teams for the championship event that will never reach the states that need it most~Kevin Leonard
+
+## Vortex 
+
+A large circle of desks assembled on day one of build season to house the CAD and code teams. Synonymous with "black hole", both in inward attractive force and in relativistic time dilation; "Thou who enter the vortex shall not emerge from its depths until the temporal substance which fuels it has evaporated after 6-9 weeks."~Newo
+
+## Wildcards 
+
+A conspiracy to get more Canadian and Californian teams to qualify for Championships each year~Kevin Leonard
+
 
