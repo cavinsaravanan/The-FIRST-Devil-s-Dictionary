@@ -1276,4 +1276,6 @@ A large circle of desks assembled on day one of build season to house the CAD an
 
 A conspiracy to get more Canadian and Californian teams to qualify for Championships each year~Kevin Leonard
 
+## RAM
 
+The reason no Java teams ever do vision tracking~JacisNonsense
