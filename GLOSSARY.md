@@ -792,6 +792,10 @@ the time at which the team packs up the pit~Jalerre
 
 A student team member (and possibly leader) who will not be a student team member for very long. Usually found by grabbing last year's juniors.~EricH
 
+## Sharpie
+
+ The infamous marker that fuels any FRC team. You will need alot of these ( they get lost ). ~CavinS
+
 ## Ship day 
 
 The day a completed robot was hastily packed into a large wooden box with a random assortment of graphics and numbers painted on the side, then shipped off to a faraway place, See Nationals (n.)~The_ShamWOW88
